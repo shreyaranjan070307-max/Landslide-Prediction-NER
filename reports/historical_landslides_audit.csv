@@ -1,0 +1,727 @@
+ROW_ID,YEAR,DATE,RAW_DATE,LATITUDE,LONGITUDE,LOCATION,DISTRICT,STATE,LANDSLIDE_TYPE,SOURCE,AUDIT_FLAGS
+1,2020,2020-07-10,10-Jul-20,27.134694,93.743472,Tigdo Landslide,Papum Pare,Arunachal Pradesh,1,GSI_REPORTS/2020/Arunachal Pradesh/21,OK
+2,2020,2020-07-10,10-Jul-20,27.107,93.698,Modrijo,Papum Pare,Arunachal Pradesh,1,Newspaper&Media/2020/Arunachal Pradesh/22,OK
+3,2020,2020-06-25,25-Jun-20,27.081306,93.612833,Donyi Colony,Papum Pare,Arunachal Pradesh,1,GSI_REPORTS/2020/Arunachal Pradesh/23,OK
+4,2020,2020-05-25,25-May-20,28.5,95.807,Aarzoo Village,Dibang Valley,Arunachal Pradesh,2,Newspaper&Media/2020/Arunachal Pradesh/24,OK
+5,2020,2020-09-17,17-Sep-20,27.104,93.826,Bandardewa Landslide,Papum Pare,Arunachal Pradesh,2,Newspaper&Media/2020/Arunachal Pradesh/25,OK
+6,2020,2020-06-02,02.06.2020,24.79488889,92.55505556,SDMA/AS/2020/Chandipur Grant Slide,Hailakandi,Assam,1,SDMA/2020/Assam/1,OK
+7,2020,2020-06-02,02.06.2020,24.73116667,92.64738889,SDMA/AS/2020/Mohanpur Grant Slide 3,Hailakandi,Assam,1,SDMA/2020/Assam/2,OK
+8,2020,2020-06-02,02.06.2020,24.70655556,92.65008333,SDMA/AS/2020/Mohanpur Grant Slide 2,Hailakandi,Assam,1,SDMA/2020/Assam/3,OK
+9,2020,2020-06-02,02.06.2020,24.92097222,93.07305556,SDMA/AS/2020/Kanakpur Slide,Cachar,Assam,1,SDMA/2020/Assam/4,OK
+10,2020,2020-06-05,05.06.2020,24.72191667,92.90380556,SDMA/AS/2020/Govindanagar Slide,Cachar,Assam,1,SDMA/2020/Assam/5,OK
+11,2020,2020-06-02,02.06.2020,24.70363889,92.64680556,SDMA/AS/2020/Mohanpur Grant Slide 1,Hailakandi,Assam,1,SDMA/2020/Assam/6,OK
+12,2020,2020-06-02,02.06.2020,24.78380556,92.45563889,SDMA/AS/2020/Karimpur Slide 1,Karimganj,Assam,1,SDMA/2020/Assam/7,OK
+13,2020,2020-06-02,02.06.2020,24.78002778,92.45372222,SDMA/AS/2020/Karimpur Slide 2,Karimganj,Assam,1,SDMA/2020/Assam/8,OK
+14,2020,2020-06-26,26.06.2020,26.146,91.756,SDMA/AS/2020/Kahilipara Slide,Kamrup metro,Assam,1,SDMA/2020/Assam/9,OK
+15,2020,2020-06-25,25.06.2020,26.21083333,91.68944444,SDMA/AS/2020/Amingaon Slide 01,Kamrup Rural,Assam,1,SDMA/2020/Assam/10,OK
+16,2020,2020-06-08,08.06.2020,24.647875,92.988353,SDMA/AS/2020/SONAI1,Cachar,Assam,1,SDMA/2020/Assam/11,OK
+17,2020,2020-06-08,08.06.2020,24.646983,92.98905,SDMA/AS/2020/SONAI2,Cachar,Assam,1,SDMA/2020/Assam/12,OK
+18,2020,2020-06-08,08.06.2020,24.649889,92.989075,SDMA/AS/2020/SONAI3,Cachar,Assam,1,SDMA/2020/Assam/13,OK
+19,2020,2020-06-08,08.06.2020,24.727878,92.823175,SDMA/AS/2020/SONAI4,Cachar,Assam,1,SDMA/2020/Assam/14,OK
+20,2020,2020-06-26,26.06.2020,26.214209,91.693519,SDMA/AS/2020/North Guwahati1,Kamrup Rural,Assam,1,SDMA/2020/Assam/15,OK
+21,2020,2020-06-27,27.06.2020,26.254368,91.762678,SDMA/AS/2020/North Guwahati2,Kamrup Rural,Assam,1,SDMA/2020/Assam/16,OK
+22,2020,2020-06-27,27.06.2020,26.262201,91.759778,SDMA/AS/2020/North Guwahati3,Kamrup Rural,Assam,1,SDMA/2020/Assam/17,OK
+23,2020,2020-06-04,04.06.2020,24.721872,92.903858,SDMA/AS/2020/SONAI5,Cachar,Assam,1,SDMA/2020/Assam/18,OK
+24,2020,2020-07-12,12.07.2020,26.102,91.863,Jorabat Landslide,Kamrup metro,Assam,1,Newspaper&Media/2020/Assam/19,OK
+25,2020,2020-06-28,28.06.2020,26.196,91.765,Guwahati Landslide,Kamrup metro,Assam,2,Newspaper&Media/2020/Assam/20,OK
+26,2020,2020-06-02,2-Jun-20,24.774,93.284,Imphal-Jiribam Landslide-1,Tamenglong,Manipur,3,Newspaper&Media/2020/Manipur/26,OK
+27,2020,2020-06-02,2-Jun-20,24.8205,93.473,Imphal-Jiribam Landslide-1,Tamenglong,Manipur,3,Newspaper&Media/2020/Manipur/27,OK
+28,2020,,,24.8172,93.2457,Makru Bridge,Tamenglong,Manipur,3,Newspaper&Media/2020/Manipur/28,MISSING_DATE
+29,2020,2020-06-02,2-Jun-20,25.396,94.142,Imphal-Jiribam Landslide-1,Senapati,Manipur,3,Newspaper&Media/2020/Manipur/29,OK
+30,2020,2020-07-06,6-Jul-20,25.236,93.911,Twilang Landslide,Senapati,Manipur,2,Newspaper&Media/2020/Manipur/30,OK
+31,2020,2020-08-11,11-Aug-20,24.748,93.986,Khenjonglang Landslide,Imphal east,Manipur,1,Newspaper&Media/2020/Manipur/31,OK
+32,2020,2020-06-21,21-Jun-20,24.925,93.985,K Sinam Village_NH 37,Senapati,Manipur,2,Newspaper&Media/2020/Manipur/32,OK
+33,2020,2020-08-20,20-Aug-20,25.498,94.387,Laii Village,Senapati,Manipur,2,Newspaper&Media/2020/Manipur/33,OK
+34,2020,2020-08-28,28-Aug-20,24.792,93.696,Kotlen,Senapati,Manipur,2,Newspaper&Media/2020/Manipur/34,OK
+35,2020,2020-08-20,20-Aug-20,24.318,94.222,Khongkhang,Chandel,Manipur,2,Newspaper&Media/2020/Manipur/35,OK
+36,2020,2020-05-27,27-May-20,24.775278,93.438889,Imphal-Jiribam Landslide-2,Tamenglong,Manipur,3,Newspaper&Media/2020/Manipur/36,OK
+37,2020,2020-10-23,23-Oct-20,25.355956,94.065278,Khongnem-Thana,Senapati,Manipur,2,Newspaper&Media/2020/Manipur/37,OK
+38,2020,,Last week of June,24.855361,93.624028,Longmai Slide,Tamenglong,Manipur,1,GSI_REPORTS/2020/Manipur/38,MISSING_DATE
+39,2020,,Last week of June,24.862694,93.624056,Khumji Noney Slide,Tamenglong,Manipur,1,GSI_REPORTS/2020/Manipur/39,MISSING_DATE
+40,2020,,Sometime before 21 July,25.515917,94.136528,Mao Slide,Senapati,Manipur,1,GSI_REPORTS/2020/Manipur/40,MISSING_DATE
+41,2020,2020-05-21,21-May-20,25.62,91.882722,Umjapung slide,East Khasi Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/41,OK
+42,2020,2020-05-26,26-May-20,25.442333,92.194472,Iawmusiang Landslide - I,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/42,OK
+43,2020,2020-05-26,26-May-20,25.441778,92.195583,Iawmusiang Landslide - II,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/43,OK
+44,2020,2020-05-26,26-May-20,25.441389,92.191083,Riatsiatsim Landslide,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/44,OK
+45,2020,2020-05-26,26-May-20,25.436306,92.19525,Chutwakhu road landslide,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/45,OK
+46,2020,2020-05-26,26-May-20,25.435056,92.198361,Chilliangraij Landslide,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/46,OK
+47,2020,2020-05-26,26-May-20,25.447417,92.201389,Salaroh Landslide,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/47,OK
+48,2020,2020-05-26,26-May-20,25.45075,92.194528,Caroline-Jowai,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/48,OK
+49,2020,2020-05-26,26-May-20,25.453517,92.187847,Shillong-Agartala-Sabrum Rd,Jaintia Hills,Meghalaya,1,GSI_REPORTS/2020/Meghalaya/49,OK
+50,2020,2020-07-11,11-Jul-20,25.448,91.84,Laitlyngkot-Pomlum,East Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/50,OK
+51,2020,2020-09-27,27-Sep-20,25.590667,92.059889,Thangshalai,East Khasi Hills,Meghalaya,1,FIELD_VISIT/2020/Meghalaya/51,OK
+52,2020,2020-10-24,24-Oct-20,25.746,91.889,Shobhala,Ri-bhoi,Meghalaya,3,Newspaper&Media/2020/Meghalaya/52,OK
+53,2020,2020-07-10,10-Jul-20,25.43,91.471,Mawthawiang,West Khasi Hills,Meghalaya,3,Newspaper&Media/2020/Meghalaya/53,OK
+54,2020,2020-07-09,9-Jul-20,25.417,91.416,Mawthawpdah-Rangdikhew road,West Khasi Hills,Meghalaya,3,Newspaper&Media/2020/Meghalaya/54,OK
+55,2020,2020-07-11,11-Jul-20,25.528,91.262,Nongstoin - Tura By-pass,West Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/55,OK
+56,2020,2020-07-12,12-Jul-20,25.581,91.884,Police Reserve,East Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/56,OK
+57,2020,2020-09-25,25-Sep-20,25.561,91.88,Dhobi Ghat Landslide,East Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/57,OK
+58,2020,2020-07-24,24-Jul-20,25.726,90.394,Tura Highway landslide,West Garo Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/58,OK
+59,2020,2020-07-14,14-Jul-20,25.523,91.272,Nongstoin Block C&RD,West Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/59,OK
+60,2020,2020-07-14,14-Jul-20,25.516,91.469,Mawthadraishan C&RD,West Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/60,OK
+61,2020,2020-07-14,14-Jul-20,25.676,91.055,Mawshynrut C&RD block,West Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/61,OK
+62,2020,2020-09-24,24-Sep-20,25.65,91.893,landslide at Ryndang briew,East Khasi Hills,Meghalaya,2,Newspaper&Media/2020/Meghalaya/62,OK
+63,2020,2020-05-29,29-May-20,25.4,91.786,18th km of Mawkdok Khadarshnong Road,East Khasi Hills,Meghalaya,3,Newspaper&Media/2020/Meghalaya/63,OK
+64,2020,2020-10-06,06.10.2020,23.731928,92.760028,Zembawk_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/64,OK
+65,2020,2020-09-22,22.09.2020,23.721556,92.731186,Bawngkawn_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/65,OK
+66,2020,2020-10-01,01.10.2020,23.740453,92.721578,Venglai_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/66,OK
+67,2020,2020-06-05,05.06.2020,23.720156,92.698094,Maubawk_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/67,OK
+68,2020,2020-09-27,27.09.2020,23.723239,92.700333,Maubawk_2,Aizawl,Mizoram,1,SDMA/2020/Mizoram/68,OK
+69,2020,2020-08-13,13.08.2020,23.751072,92.695947,Maubawk_3,Aizawl,Mizoram,1,SDMA/2020/Mizoram/69,OK
+70,2020,2020-10-04,04.10.2020,23.732306,94.706492,Chanpui_1,,Mizoram,1,SDMA/2020/Mizoram/70,MISSING_DISTRICT
+71,2020,2020-10-02,02.10.2020,23.739519,92.71415,Vaivakawn_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/71,OK
+72,2020,2020-07-04,04.07.2020,23.720222,92.728675,Bawngkawn_2,Aizawl,Mizoram,1,SDMA/2020/Mizoram/72,OK
+73,2020,2020-08-31,31.08.2020,23.488881,92.708261,Maubuang_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/73,OK
+74,2020,2020-06-10,10.06.2020,23.720278,92.716983,Khatla_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/74,OK
+75,2020,2020-07-11,11.07.2020,23.562675,92.726283,Melriat_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/75,OK
+76,2020,2020-02-02,02.02.2020,23.730278,92.757661,Zemabawk_2,Aizawl,Mizoram,1,SDMA/2020/Mizoram/76,OK
+77,2020,2020-06-15,15.06.2020,23.746222,92.723003,Ramhlun_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/77,OK
+78,2020,2020-07-17,17.07.2020,23.739747,92.708728,Vaivakawn_2,Aizawl,Mizoram,1,SDMA/2020/Mizoram/78,OK
+79,2020,2020-05-28,28.05.2020,23.612047,92.974247,Mualpheng_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/79,OK
+80,2020,2020-07-10,10.07.2020,23.350964,92.797306,Sailam_1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/80,OK
+81,2020,2020-08-08,08.08.2020,23.692778,93.382778,Hnahlan-1,Champhai,Mizoram,1,SDMA/2020/Mizoram/81,OK
+82,2020,2020-08-01,01.08.2020,23.692778,93.382778,Zotlang-1,Champhai,Mizoram,1,SDMA/2020/Mizoram/82,OK
+83,2020,2020-07-07,07.07.2020,22.536667,92.887222,Electric_veng1,Lawngtlai,Mizoram,1,SDMA/2020/Mizoram/83,OK
+84,2020,2020-08-03,03.08.2020,22.536111,92.889722,Electric_veng2,Lawngtlai,Mizoram,1,SDMA/2020/Mizoram/84,OK
+85,2020,2020-08-04,04.08.2020,23.533611,92.891944,Electric_veng3,Serchhip,Mizoram,1,SDMA/2020/Mizoram/85,OK
+86,2020,2020-08-03,03.08.2020,22.533611,92.5575,College_veng1,Lawngtlai,Mizoram,1,SDMA/2020/Mizoram/86,OK
+87,2020,2020-08-20,20.08.2020,22.534167,92.889444,Electric_veng4,Lawngtlai,Mizoram,1,SDMA/2020/Mizoram/87,OK
+88,2020,2020-08-24,24.08.2020,23.533611,92.890833,Electric_veng5,Serchhip,Mizoram,1,SDMA/2020/Mizoram/88,OK
+89,2020,2020-08-02,02.08.2020,22.515556,92.896389,College_veng2,Lawngtlai,Mizoram,1,SDMA/2020/Mizoram/89,OK
+90,2020,2020-08-03,03.08.2020,22.527222,92.898889,Bazaar_veng1,Lawngtlai,Mizoram,1,SDMA/2020/Mizoram/90,OK
+91,2020,2020-10-02,02.10.2020,23.6625,92.9675,Rulchawm1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/91,OK
+92,2020,,02.10.2020-03.10.2020,23.85,93.0475,Phullen1,Aizawl,Mizoram,1,SDMA/2020/Mizoram/92,MISSING_DATE
+93,2020,2020-08-17,17.08.2020,23.855617,93.0475,Phullen2,Aizawl,Mizoram,1,SDMA/2020/Mizoram/93,OK
+94,2020,2020-10-13,13.10.2020,23.841111,93.051944,Phullen3,Aizawl,Mizoram,1,SDMA/2020/Mizoram/94,OK
+95,2020,2020-10-08,08.10.2020,23.838611,92.053611,Phullen4,Dhalai,Mizoram,1,SDMA/2020/Mizoram/95,OK
+96,2020,2020-07-10,10.07.2020,23.673333,92.885556,Phullen5,Aizawl,Mizoram,1,SDMA/2020/Mizoram/96,OK
+97,2020,2020-06-10,10.06.2020,23.92,92.491111,Mamit1,Mamit,Mizoram,1,SDMA/2020/Mizoram/97,OK
+98,2020,2020-07-11,11.07.2020,23.916944,92.492222,Mamit2,Mamit,Mizoram,1,SDMA/2020/Mizoram/98,OK
+99,2020,2020-06-11,11.06.2020,23.924167,92.490278,Mamit3,Mamit,Mizoram,1,SDMA/2020/Mizoram/99,OK
+100,2020,2020-06-11,11.06.2020,23.912778,92.390556,Mamit4,Mamit,Mizoram,1,SDMA/2020/Mizoram/100,OK
+101,2020,2020-05-29,29.05.2020,23.948611,92.49,Mamit5,Mamit,Mizoram,1,SDMA/2020/Mizoram/101,OK
+102,2020,2020-10-03,03.10.2020,23.523083,93.193194,Khazawl1,Champhai,Mizoram,1,SDMA/2020/Mizoram/102,OK
+103,2020,2020-10-21,21.10.2020,24.231944,92.675278,Tumpui_veng1,Kolasib,Mizoram,1,SDMA/2020/Mizoram/103,OK
+104,2020,2020-05-25,25.05.2020,24.455,92.741667,Variengte_IOC_veng1,Kolasib,Mizoram,1,SDMA/2020/Mizoram/104,OK
+105,2020,2020-10-04,4-Oct-20,25.662,94.106,Lower PWD,Kohima,Nagaland,2,Newspaper&Media/2020/Nagaland/105,OK
+106,2020,2020-08-15,15-Aug-20,26.326,94.522,"Alongmen Ward, Mokochung",Mokokchung,Nagaland,2,Newspaper&Media/2020/Nagaland/106,OK
+107,2020,2020-08-17,17-Aug-20,26.01,94.519,DC Hill West Colony,Zunheboto,Nagaland,2,Newspaper&Media/2020/Nagaland/107,OK
+108,2020,2020-08-14,14-Aug-20,26.166,94.487,Akuluto Town,Zunheboto,Nagaland,2,Newspaper&Media/2020/Nagaland/108,OK
+109,2020,2020-09-07,7-Sep-20,25.79641717,93.8023278,Patkai Bridge to Kukidolong road stretch,Dimapur,Nagaland,3,Newspaper&Media/2020/Nagaland/109,OK
+110,2020,2020-09-12,12-Sep-20,25.79383239,93.80556258,Patkai Bridge to Kukidolong road stretch,Dimapur,Nagaland,3,Newspaper&Media/2020/Nagaland/110,OK
+111,2020,2020-09-19,19-Sep-20,25.77079334,93.81473269,Patkai Bridge to Kukidolong road stretch,Dimapur,Nagaland,3,Newspaper&Media/2020/Nagaland/111,OK
+112,2020,2020-08-19,19-Aug-20,25.664,94.091,"Mehruliesta, Paramedical Colony",Kohima,Nagaland,3,Newspaper&Media/2020/Nagaland/112,OK
+113,2020,2020-07-08,8-Jul-20,25.873,94.441,Between Xuivi and Kilomi District,Zunheboto,Nagaland,3,Newspaper&Media/2020/Nagaland/113,OK
+114,2020,2020-07-11,11-Jul-20,25.689,94.098,High School Area,Kohima,Nagaland,2,Newspaper&Media/2020/Nagaland/114,OK
+115,2020,2020-05-24,24-May-20,27.286,88.219,Lingchom Landslide,West Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/115,OK
+116,2020,2020-09-08,8-Sep-20,27.261,88.553,Gangtok_Rangpo_landslides,East Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/116,OK
+117,2020,2020-09-08,8-Sep-20,27.286,88.59,20 Mile Bardun,East Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/117,OK
+118,2020,2020-09-08,8-Sep-20,27.256,88.546,Gai Dhara Landslide,East Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/118,OK
+119,2020,2020-06-08,8-Jun-20,27.257,88.421,Thakka Road mudslide,South Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/119,OK
+120,2020,2020-10-02,2-Oct-20,27.2206,88.2034,Boom Tafel,West Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/120,OK
+121,2020,2020-06-29,29-Jun-20,27.502,88.535,Mangang-Chungtohong Road,North Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/121,OK
+122,2020,2020-06-27,27-Jun-20,27.50519261,88.50450975,Barfok-Lingdok GPU,North Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/122,OK
+123,2020,2020-06-27,27-Jun-20,27.4569233,88.48734731,Hee Gyanthang,North Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/123,OK
+124,2020,2020-06-27,27-Jun-20,27.38950527,88.47566224,Lum Village,North Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/124,OK
+125,2020,2020-06-27,27-Jun-20,27.52,88.509,Uphill Panang Landslide,North Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/125,OK
+126,2020,2020-06-27,27-Jun-20,27.506,88.528,Mangan-Sangkhalang Road,North Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/126,OK
+127,2020,2020-06-28,28-Jun-20,27.357,88.232,Landslide near Fambrong Falls,West Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/127,OK
+128,2020,2020-06-27,27-Jun-20,27.251,88.459,Tessta V NHPC Landslide,East Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/128,OK
+129,2020,2020-05-26,26-May-20,27.565,88.424,Myong Kyong 12th Mile Slide,North Sikkim,Sikkim,2,Newspaper&Media/2020/Sikkim/129,OK
+130,2020,2020-06-25,25-Jun-20,27.411,88.546,North_Sikkim_cutoff_event_1,North Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/130,OK
+131,2020,2020-06-25,25-Jun-20,27.453,88.61,North_Sikkim_cutoff_event_2,North Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/131,OK
+132,2020,2020-06-25,25-Jun-20,27.384,88.505,North_Sikkim_cutoff_event_3,East Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/132,OK
+133,2020,2020-05-24,24-May-20,27.398667,88.623583,Dhare Landslide,North Sikkim,Sikkim,1,GSI_REPORTS/2020/Sikkim/133,OK
+134,2020,2020-05-24,24-May-20,27.398389,88.625667,Satala Landslide,North Sikkim,Sikkim,1,GSI_REPORTS/2020/Sikkim/134,OK
+135,2020,2020-06-01,1-Jun-20,27.39,88.429,Sokpay_landslide,South Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/135,OK
+136,2020,2020-08-06,6-Aug-20,27.163,88.311,Jorengthang Landslide,South Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/136,OK
+137,2020,,8 to 11 September 2020,27.198,88.648,East_sikkim_ls_Sept_2020,East Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/137,MISSING_DATE
+138,2020,,8 to 11 September 2020,27.393,88.515,North_Sikkim_ls_Sept2020,East Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/138,MISSING_DATE
+139,2020,,8 to 11 September 2020,27.116,88.323,South_Sikkim_ls_Sept2020_1,South Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/139,MISSING_DATE
+140,2020,,8 to 11 September 2020,27.254,88.317,South_Sikkim_ls_Sept2020_2,South Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/140,MISSING_DATE
+141,2020,,8 to 11 September 2020,27.082,88.429,West_Sikkim_ls_Sept2020,South Sikkim,Sikkim,3,Newspaper&Media/2020/Sikkim/141,MISSING_DATE
+142,2021,2021-06-08,2021-06-08,27.241524,93.335972,Leporiang,Papum Pare,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+143,2021,2021-08-13,2021-08-13,28.849609,94.748649,Between Tuting and Yingkiong,Upper Siang,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+144,2021,2021-08-13,2021-08-13,28.122053,95.274842,near Sirki waterfall,East Siang,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+145,2021,2021-08-13,2021-08-13,27.784222,94.721322,Between Likabali and Basar,West Siang,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+146,2021,2021-06-27,2021-06-27,28.153611,95.181369,Rotung Village at Kebang,East Siang,Arunachal Pradesh,Type 1,NESAC-SR-277-2022,OK
+147,2021,2021-06-17,2021-06-17,28.936253,94.842537,Pekong Village,Upper Siang,Arunachal Pradesh,Type 2,NESAC-SR-277-2022,OK
+148,2021,2021-07-08,2021-07-08,27.965813,94.467809,Tode Village,Upper Subansiri,Arunachal Pradesh,Type 2,NESAC-SR-277-2022,OK
+149,2021,2021-06-05,2021-06-05,27.326763,92.43801,77.200 km in BCT road near Saddle,West Kameng,Arunachal Pradesh,Type 2,NESAC-SR-277-2022,OK
+150,2021,2021-05-31,2021-05-31,27.095983,93.622322,Near Indira Gandhi Park entry gate,Papum Pare,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+151,2021,2021-05-25,2021-05-25,27.208119,92.479767,80.3-km between Nechiphu and Saddle,West Kameng,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+152,2021,2021-06-22,2021-06-22,26.911944,95.603611,Kuthong Village,Tirap,Arunachal Pradesh,Type 2,NESAC-SR-277-2022,OK
+153,2021,2021-06-30,2021-06-30,28.214774,95.235101,Pasighat to Yingkiong (100 kms away),Upper Siang,Arunachal Pradesh,Type 2,NESAC-SR-277-2022,OK
+154,2021,2021-06-30,2021-06-30,27.796145,94.71335,"near Garu, 25 km from Likabali",West Siang,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+155,2021,2021-04-28,2021-04-28,27.186597,92.303984,between Membachur and Garbow,West Kameng,Arunachal Pradesh,Type 2,NESAC-SR-277-2022,OK
+156,2021,2021-06-27,2021-06-27,28.233722,94.9963,Sangam Bridge Collapse near Pangin,East Siang,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+157,2021,2021-09-09,2021-09-09,27.794025,94.073954,Raga headquarters,Lower Subansiri,Arunachal Pradesh,Type 3,NESAC-SR-277-2022,OK
+158,2021,2021-09-20,2021-09-20,27.104442,92.566072,20 locations along BCT Road,West Kameng,Arunachal Pradesh,Type 2,NESAC-SR-277-2022,OK
+159,2021,2021-06-18,2021-06-18,26.162784,91.694636,Water Works Colony,Kamrup metro,Assam,Type 2,NESAC-SR-277-2022,OK
+160,2021,2021-08-25,2021-08-25,26.574761,93.110996,Kaliabor,Nagaon,Assam,Type 3,NESAC-SR-277-2022,OK
+161,2021,2021-10-20,2021-10-20,26.170251,91.690161,Guwahati,Kamrup metro,Assam,Type 2,NESAC-SR-277-2022,OK
+162,2021,2021-08-06,2021-08-06,26.154238,91.810523,Borbari,Kamrup metro,Assam,Type 2,NESAC-SR-277-2022,OK
+163,2021,2021-06-06,2021-06-06,25.217562,93.820138,Between Tujang Waichong and Selsi,Senapati,Manipur,Type 2,NESAC-SR-277-2022,OK
+164,2021,2021-08-02,2021-08-02,25.241119,93.857702,Lamlenkon in Tujang Waichong,Tamenglong,Manipur,Type 1,NESAC-SR-277-2022,OK
+165,2021,2021-08-20,2021-08-20,24.503658,93.509375,S Kholep village,Churachandpur,Manipur,Type 2,NESAC-SR-277-2022,OK
+166,2021,2021-08-16,2021-08-16,24.826041,93.56119,5 km away from Awang Khul Village,Tamenglong,Manipur,Type 3,NESAC-SR-277-2022,OK
+167,2021,2021-06-24,2021-06-24,25.158298,93.677995,Tamei Village,Tamenglong,Manipur,Type 3,NESAC-SR-277-2022,OK
+168,2021,2021-06-07,2021-06-07,25.158298,93.677995,Tamei Village,Tamenglong,Manipur,Type 3,NESAC-SR-277-2022,OK
+169,2021,2021-07-26,2021-07-26,24.319566,94.160246,Chahmol Village,Chandel,Manipur,Type 3,NESAC-SR-277-2022,OK
+170,2021,2021-07-19,2021-07-19,24.818353,93.440246,8km towards Thingou,Tamenglong,Manipur,Type 1,NESAC-SR-277-2022,OK
+171,2021,2021-06-16,2021-06-16,25.091769,94.358421,Mini Secretariat Complex,Ukhrul,Manipur,Type 1,NESAC-SR-277-2022,OK
+172,2021,2021-07-19,2021-07-19,24.767366,93.332535,Sibilong Temple,Tamenglong,Manipur,Type 1,NESAC-SR-277-2022,OK
+173,2021,2021-10-09,2021-10-09,24.005219,93.915829,Khulmulen-Sajik Road,Chandel,Manipur,Type 2,NESAC-SR-277-2022,OK
+174,2021,2021-02-24,2021-02-24,25.585545,91.86466,Sonapani Hydro-Electric Project,East Khasi Hills,Meghalaya,Type 1,NESAC-SR-277-2022,OK
+175,2021,2021-06-30,2021-06-30,25.499358,90.214668,Tura-Dalu stretch,West Garo Hills,Meghalaya,Type 1,NESAC-SR-277-2022,OK
+176,2021,2021-08-02,2021-08-02,25.081742,92.362063,"Kuliang Village, Khliehriat",Jaintia Hills,Meghalaya,Type 3,NESAC-SR-277-2022,OK
+177,2021,2021-06-30,2021-06-30,25.202693,90.831915,Malikona Village Baghmara town,South Garo Hills,Meghalaya,Type 2,NESAC-SR-277-2022,OK
+178,2021,2021-08-26,2021-08-26,22.130154,92.761693,Zochachhuah,Lawngtlai,Mizoram,Type 3,NESAC-SR-277-2022,OK
+179,2021,2021-07-19,2021-07-19,22.805047,92.816565,Bualpui,Lunglei,Mizoram,Type 1,NESAC-SR-277-2022,OK
+180,2021,2021-06-11,2021-06-11,23.74192,92.741738,Thuampui,Aizawl,Mizoram,Type 1,NESAC-SR-277-2022,OK
+181,2021,2021-10-09,2021-10-09,23.689863,92.859428,Thingsulthliah Village,Aizawl,Mizoram,Type 2,NESAC-SR-277-2022,OK
+182,2022,2022-06-19,19-06-2022,27.112083,93.6878,Sood_landslide Sood Village near Yupia,Papum Pare,Arunachal Pradesh,2,Newspapers&Media/2022/Arunachal Pradesh/106,OK
+183,2022,2022-05-16,16-05-2022,27.095318,93.62141,Punjabi_dhabha_landslide Behind punjabi dhabha sector-d itanagar,Papum Pare,Arunachal Pradesh,2,Newspapers&Media/2022/Arunachal Pradesh/107,OK
+184,2022,2022-05-16,16-05-2022,27.079184,93.61592,Ganga_Jully_basti_road NES secretariat Richi Jollang,Papum Pare,Arunachal Pradesh,2,Newspapers&Media/2022/Arunachal Pradesh/108,OK
+185,2022,2022-06-19,19-06-2022,27.107346,93.650566,"Modirijo_landslide Shiv Mandir area, Modirijo Village between Itanagar and Naharlagun",Papum Pare,Arunachal Pradesh,2,Newspapers&Media/2022/Arunachal Pradesh/109,OK
+186,2022,2022-04-19,19-04-2022,27.856197,93.27676,Sulung_tapin_landslide Koloriang circle,Papum Pare,Arunachal Pradesh,2,Newspapers&Media/2022/Arunachal Pradesh/110,OK
+187,2022,2022-04-10,10-04-2022,25.033175,92.45981,"Malidor_meghalaya_1 Malidor, Meghalaya near bridge",Cachar,Assam,1,field_visit/2022/Assam/29,OK
+188,2022,2022-04-10,10-04-2022,25.031351,92.463036,Malidor_after_bridge_1 Malidor after crossing bridge,Cachar,Assam,1,field_visit/2022/Assam/30,OK
+189,2022,2022-04-10,10-04-2022,25.029991,92.464066,Malidor_after_bridge_2 Malidor after crossing bridge,Cachar,Assam,1,field_visit/2022/Assam/31,OK
+190,2022,2022-04-10,10-04-2022,25.031443,92.45863,Malidor_Indian_oil_pp1 near Indian Oil Petrol Pump,Cachar,Assam,1,field_visit/2022/Assam/32,OK
+191,2022,2022-04-10,10-04-2022,25.03144,92.458496,Malidor_Indian_oil_pp2 near Indian Oil Petrol Pump,Cachar,Assam,1,field_visit/2022/Assam/33,OK
+192,2022,2022-04-10,10-04-2022,25.031765,92.455505,"Malidor_meghalaya_4 Malidor, Meghalaya near bridge",Cachar,Assam,1,field_visit/2022/Assam/34,OK
+193,2022,2022-05-15,15-05-2022,25.03473,92.779236,devi-nala-1 devi nala,Cachar,Assam,1,satellite_image/2022/Assam/35,OK
+194,2022,2022-05-15,15-05-2022,25.035023,92.78028,devi-nala-2 devi nala,Cachar,Assam,1,satellite_image/2022/Assam/36,OK
+195,2022,2022-05-15,15-05-2022,25.049883,92.80106,bandarkhal_nrsc_south1 bandarkhal,Cachar,Assam,1,satellite_image/2022/Assam/37,OK
+196,2022,2022-05-15,15-05-2022,25.061815,92.79994,bandarkhal_north_1 bandarkhal,Cachar,Assam,1,satellite_image/2022/Assam/38,OK
+197,2022,2022-05-15,15-05-2022,25.062498,92.79922,bandarkhal_north_2 bandarkhal,Cachar,Assam,1,satellite_image/2022/Assam/39,OK
+198,2022,2022-05-15,15-05-2022,25.066957,92.80956,bandarkhal_north_east_1 bandarkhal,Cachar,Assam,1,satellite_image/2022/Assam/40,OK
+199,2022,2022-05-15,15-05-2022,25.082067,92.81372,doloi_chunga_s1 doloi chunga,Cachar,Assam,1,satellite_image/2022/Assam/41,OK
+200,2022,2022-05-15,15-05-2022,25.065077,92.85103,doloi_chunga_s2 doloi chunga,Cachar,Assam,1,satellite_image/2022/Assam/42,OK
+201,2022,2022-05-15,15-05-2022,25.064798,92.8521,lodhi_basti1 lodhi basti,Cachar,Assam,1,satellite_image/2022/Assam/43,OK
+202,2022,2022-05-15,15-05-2022,25.064266,92.87685,lodhi_basti2 lodhi basti,Cachar,Assam,1,satellite_image/2022/Assam/44,OK
+203,2022,2022-05-15,15-05-2022,25.061062,92.87666,saisi_w1 saisi,Cachar,Assam,1,satellite_image/2022/Assam/45,OK
+204,2022,2022-05-15,15-05-2022,25.07341,92.8663,nachangjol_1 nachangjol,Cachar,Assam,1,satellite_image/2022/Assam/46,OK
+205,2022,2022-05-15,15-05-2022,25.08474,92.868065,Maharajpur Maharajpur,Dima Hasao,Assam,1,satellite_image/2022/Assam/47,OK
+206,2022,2022-05-15,15-05-2022,25.08061,92.87005,bungkhang_sw1 bungkhang,Dima Hasao,Assam,1,satellite_image/2022/Assam/48,OK
+207,2022,2022-05-15,15-05-2022,25.074862,92.87329,bungkhang_sw2 bungkhang,Dima Hasao,Assam,1,satellite_image/2022/Assam/49,OK
+208,2022,2022-05-15,15-05-2022,25.078197,92.88341,bungkhang_3 bungkhang,Dima Hasao,Assam,1,satellite_image/2022/Assam/50,OK
+209,2022,2022-05-15,15-05-2022,25.091064,92.733284,bungkhang_1 bungkhang,Dima Hasao,Assam,1,satellite_image/2022/Assam/51,OK
+210,2022,2022-05-15,15-05-2022,25.095066,92.737595,bungkhang_2 bungkhang,Dima Hasao,Assam,1,satellite_image/2022/Assam/52,OK
+211,2022,2022-05-15,15-05-2022,25.137493,92.73741,doloi_chunga_s3 doloi chunga,Dima Hasao,Assam,1,satellite_image/2022/Assam/53,OK
+212,2022,2022-05-15,15-05-2022,25.115389,92.75996,doloi_chunga_se1 doloi chunga,Dima Hasao,Assam,1,satellite_image/2022/Assam/54,OK
+213,2022,2022-05-15,15-05-2022,25.128378,92.78221,nachangjol_2 nachangjol,Dima Hasao,Assam,1,satellite_image/2022/Assam/55,OK
+214,2022,2022-05-15,15-05-2022,25.124657,92.77173,nachangjol_3 nachangjol,Dima Hasao,Assam,1,satellite_image/2022/Assam/56,OK
+215,2022,2022-05-15,15-05-2022,25.106842,92.77259,nachangjol_4 nachangjol,Dima Hasao,Assam,1,satellite_image/2022/Assam/57,OK
+216,2022,2022-05-15,15-05-2022,25.111677,92.8712,new_harangjao1 new harangjao,Dima Hasao,Assam,1,satellite_image/2022/Assam/58,OK
+217,2022,2022-05-15,15-05-2022,25.110813,92.8845,new_harangjao2 new harangjao,Dima Hasao,Assam,1,satellite_image/2022/Assam/59,OK
+218,2022,2022-05-15,15-05-2022,25.103504,92.88966,new_harangjao3 new harangjao,Dima Hasao,Assam,1,satellite_image/2022/Assam/60,OK
+219,2022,2022-05-15,15-05-2022,25.147371,92.820015,harangajao_nw harangjao,Dima Hasao,Assam,1,satellite_image/2022/Assam/61,OK
+220,2022,2022-05-15,15-05-2022,25.069427,93.1018,khomunom khomunom,Dima Hasao,Assam,1,satellite_image/2022/Assam/62,OK
+221,2022,2022-05-15,15-05-2022,25.15346,93.0184,hill_haflong1 hill_halflong,Dima Hasao,Assam,1,satellite_image/2022/Assam/63,OK
+222,2022,2022-05-15,15-05-2022,25.127455,92.9266,jatinga_lumpur jatonga_lumpur,Dima Hasao,Assam,1,satellite_image/2022/Assam/64,OK
+223,2022,2022-05-15,15-05-2022,25.151909,93.03285,L1 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/65,OK
+224,2022,2022-05-15,15-05-2022,25.149664,93.03088,DF1 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/66,OK
+225,2022,2022-05-15,15-05-2022,25.149872,93.03178,DF2 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/67,OK
+226,2022,2022-05-15,15-05-2022,25.148912,93.031586,L2 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/68,OK
+227,2022,2022-05-15,15-05-2022,25.14752,93.03081,L3 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/69,OK
+228,2022,2022-05-15,15-05-2022,25.145393,93.028824,L8 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/70,OK
+229,2022,2022-05-15,15-05-2022,25.145468,93.03013,L5 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/71,OK
+230,2022,2022-05-15,15-05-2022,25.144587,93.02707,L7 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/72,OK
+231,2022,2022-05-15,15-05-2022,25.141546,93.03085,L6 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/73,OK
+232,2022,2022-05-15,15-05-2022,25.143412,93.03172,DF6 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/74,OK
+233,2022,2022-05-15,15-05-2022,25.145105,93.03218,L4 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/75,OK
+234,2022,2022-05-15,15-05-2022,25.145308,93.02946,DF5 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/76,OK
+235,2022,2022-05-15,15-05-2022,25.144354,93.02944,DF4 Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/77,OK
+236,2022,2022-05-15,15-05-2022,25.148092,93.0336,L9a Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/78,OK
+237,2022,2022-05-15,15-05-2022,25.14794,93.03361,L9b Near Halflong Railway Station,Dima Hasao,Assam,1,field_visit/2022/Assam/79,OK
+238,2022,2022-05-15,15-05-2022,25.186506,93.01687,"L10 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/80,OK
+239,2022,2022-05-15,15-05-2022,25.18653,93.01751,"L11 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/81,OK
+240,2022,2022-05-15,15-05-2022,25.187185,93.01716,"L12 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/82,OK
+241,2022,2022-05-15,15-05-2022,25.18724,93.0178,"L13 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/83,OK
+242,2022,2022-05-15,15-05-2022,25.188253,93.01809,"L14 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/84,OK
+243,2022,2022-05-15,15-05-2022,25.187881,93.01832,"L15 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/85,OK
+244,2022,2022-05-15,15-05-2022,25.187809,93.018524,"L16 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/86,OK
+245,2022,2022-05-15,15-05-2022,25.187763,93.018745,"L17 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/87,OK
+246,2022,2022-05-15,15-05-2022,25.187649,93.01909,"L18 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/88,OK
+247,2022,2022-05-15,15-05-2022,25.186731,93.0194,"L22 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/89,OK
+248,2022,2022-05-15,15-05-2022,25.186766,93.01914,"L19 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/90,OK
+249,2022,2022-05-15,15-05-2022,25.186045,93.01877,"L27 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/91,OK
+250,2022,2022-05-15,15-05-2022,25.185911,93.01879,"L28 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/92,OK
+251,2022,2022-05-15,15-05-2022,25.186026,93.019104,"L29 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/93,OK
+252,2022,2022-05-15,15-05-2022,25.143646,93.02876,"DF3 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/94,OK
+253,2022,2022-05-15,15-05-2022,25.186756,93.01923,"L20 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/95,OK
+254,2022,2022-05-15,15-05-2022,25.186605,93.01952,"L21 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/96,OK
+255,2022,2022-05-15,15-05-2022,25.186619,93.019455,"L23 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/97,OK
+256,2022,2022-05-15,15-05-2022,25.18669,93.01947,"L24 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/98,OK
+257,2022,2022-05-15,15-05-2022,25.186378,93.01897,"L25 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/99,OK
+258,2022,2022-05-15,15-05-2022,25.186222,93.01888,"L26 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/100,OK
+259,2022,2022-05-15,15-05-2022,25.186321,93.02017,"L30 Near Kendri Vidyalaya, Halflong",Dima Hasao,Assam,1,field_visit/2022/Assam/101,OK
+260,2022,2022-05-14,14-05-2022,25.159405,92.9836,Hokai_pungchi Hokai Pungchi near Halflong,Dima Hasao,Assam,2,Newspapers&Media/2022/Assam/102,OK
+261,2022,2022-06-18,18-06-2022,24.759151,92.7794,Borakhai_tea_estate Borakhai Tea Estate near NIT Silchar,Cachar,Assam,2,Newspapers&Media/2022/Assam/104,OK
+262,2022,2022-06-19,19-06-2022,26.19286,91.76223,"Navagarha_guard_wall_collapse Chitrachal Hill, Navagraha",Kamrup Metro,Assam,2,Newspapers&Media/2022/Assam/105,OK
+263,2022,2022-06-12,12-06-2022,26.11816,91.683105,Nizarpur_landslide Boragaon,Kurung Kumey,Assam,2,Newspapers&Media/2022/Assam/111,OK
+264,2022,2022-06-17,17-06-2022,26.14118,90.63741,"Azadnagar_landslide Azadnagar, Gopalpara",Gopalpara,Assam,2,Newspapers&Media/2022/Assam/112,OK
+265,2022,2022-06-30,30-06-2022,24.80265,93.6709,Tupul_yard_landslide Tupul Railway Yard Construction,Noney,Manipur,2,Newspapers&Media/2022/Manipur/120,OK
+266,2022,2022-04-13,13-04-2022,25.300713,92.3835,Byndihati-Umtyra_Road_Creep Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/1,OK
+267,2022,2022-04-13,13-04-2022,25.299032,92.386284,Byndihati-Umtyra_1 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/2,OK
+268,2022,2022-04-13,13-04-2022,25.298933,92.38648,Byndihati-Umtyra_2 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/3,OK
+269,2022,2022-04-13,13-04-2022,25.29857,92.386894,Byndihati-Umtyra_3 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/4,OK
+270,2022,2022-04-13,13-04-2022,25.29842,92.386955,Byndihati-Umtyra_4 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/5,OK
+271,2022,2022-04-13,13-04-2022,25.298416,92.386986,Byndihati-Umtyra_5 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/6,OK
+272,2022,2022-04-13,13-04-2022,25.298306,92.386986,Byndihati-Umtyra_6 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/7,OK
+273,2022,2022-04-13,13-04-2022,25.297895,92.38725,Byndihati-Umtyra_7 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/8,OK
+274,2022,2022-04-13,13-04-2022,25.297684,92.38736,Byndihati-Umtyra_8 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/9,OK
+275,2022,2022-04-13,13-04-2022,25.297401,92.38735,Byndihati-Umtyra_9 Between Byndihati and Umtyra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/10,OK
+276,2022,2022-04-13,13-04-2022,,,,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/11,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+277,2022,2022-04-13,13-04-2022,25.259485,92.38551,Nongsning_12 Near Nongsning,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/12,OK
+278,2022,2022-04-13,13-04-2022,25.242348,92.3757,Shiehruphi_1 Shiehruphi,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/13,OK
+279,2022,2022-04-13,13-04-2022,25.220339,92.37896,Thangskai_1 near Thangskai,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/14,OK
+280,2022,2022-04-13,13-04-2022,,,,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/15,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+281,2022,2022-04-13,13-04-2022,25.150444,92.36781,"Umlaper_tea_stall_1 near Raju Tea Stall, near Umlaper",Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/16,OK
+282,2022,2022-04-13,13-04-2022,25.147703,92.37676,Tongseng1 near Tongseng Village,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/17,OK
+283,2022,2022-04-13,13-04-2022,25.143984,92.373055,Tongseng2 near Tongseng Village,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/18,OK
+284,2022,2022-04-13,13-04-2022,25.1438,92.37366,Tongseng3 near Tongseng Village,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/19,OK
+285,2022,2022-04-13,13-04-2022,25.144033,92.37443,Tongseng4 near Tongseng Village,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/20,OK
+286,2022,2022-04-13,13-04-2022,25.14076,92.379005,HP_petrol_pump_tongseng_1 behind HP Petrol Pump Tongseng,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/21,OK
+287,2022,2022-04-13,13-04-2022,25.140772,92.37903,HP_petrol_pump_tongseng_2 behind HP Petrol Pump Tongseng,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/22,OK
+288,2022,2022-04-13,13-04-2022,25.140808,92.37898,HP_petrol_pump_tongseng_3 behind HP Petrol Pump Tongseng,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/23,OK
+289,2022,2022-04-13,13-04-2022,25.129538,92.388245,3km_before_sonapur_1 3 km before sonapur,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/24,OK
+290,2022,2022-04-13,13-04-2022,25.12547,92.38578,Before_Sonapur2 before sonapur,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/25,OK
+291,2022,2022-04-13,13-04-2022,25.113762,92.37368,Before_Sonapur3 before sonapur,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/26,OK
+292,2022,2022-04-13,13-04-2022,25.045042,92.410835,Donsakul_1 near donsakul,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/27,OK
+293,2022,2022-04-13,13-04-2022,25.044744,92.43025,Ratacherra_1 near ratacherra,Jaintia Hills,Meghalaya,1,field_visit/2022/Meghalaya/28,OK
+294,2022,2022-06-09,09-06-2022,25.389677,90.060165,"Jebalgre_landslide Jebalgre Village, Gambegre 45 km from Tura",West Garo Hills,Meghalaya,2,Newspapers&Media/2022/Meghalaya/113,OK
+295,2022,2022-06-09,09-06-2022,25.507116,89.951546,"Betasingh_landslide Samati village, Betasingh block",South West Garo Hills,Meghalaya,2,Newspapers&Media/2022/Meghalaya/114,OK
+296,2022,2020-06-16,16-06-2020,25.18166,92.37444,Lumshnong_landslide near lumshnong,East Jaintia Hills,Meghalaya,2,Newspapers&Media/2022/Meghalaya/115,SUSPICIOUS_DATE_2020_IN_2022_SOURCE
+297,2022,2022-06-16,16-06-2022,25.44632,91.57084,Laitlarem_landslide Laitlarem village under Mawphlang C&RD block,East Khasi Hills,Meghalaya,2,Newspapers&Media/2022/Meghalaya/116,OK
+298,2022,2022-06-17,17-06-2022,25.206291,92.02121,"Darrang_landslide Darrang Village, Dawki Police Station",West Jaintia Hills,Meghalaya,2,Newspapers&Media/2022/Meghalaya/117,OK
+299,2022,2022-06-17,17-06-2022,25.459652,90.03326,"Bolsalgre_landslide Bolsalgre locality, Baghmara",South Garo Hills,Meghalaya,2,Newspapers&Media/2022/Meghalaya/118,OK
+300,2022,2022-06-17,17-06-2022,25.351841,90.68374,Siju_landslide Siju Village,South Garo Hills,Meghalaya,2,Newspapers&Media/2022/Meghalaya/119,OK
+301,2022,2022-06-19,19-06-2022,22.690073,92.84086,Tawipui_road Tawipui_road,Lunglei,Mizoram,2,Newspapers&Media/2022/Mizoram/103,OK
+302,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/123,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+303,2022,2022-07-24,24-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/124,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+304,2022,2022-07-24,24-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/125,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+305,2022,2022-07-24,24-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/126,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+306,2022,2022-07-24,24-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/127,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+307,2022,2022-07-24,24-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/128,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+308,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/129,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+309,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/130,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+310,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/131,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+311,2022,2022-07-24,24-07-2022,,,,Serchhip,Mizoram,1,field_visit/2022/Mizoram/132,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+312,2022,2022-07-24,24-07-2022,,,,Serchhip,Mizoram,1,field_visit/2022/Mizoram/133,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+313,2022,2022-07-24,24-07-2022,,,,Serchhip,Mizoram,1,field_visit/2022/Mizoram/134,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+314,2022,2022-07-24,24-07-2022,,,,Serchhip,Mizoram,1,field_visit/2022/Mizoram/135,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+315,2022,2022-07-24,24-07-2022,,,,Serchhip,Mizoram,1,field_visit/2022/Mizoram/136,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+316,2022,2022-07-24,24-07-2022,,,,Serchhip,Mizoram,1,field_visit/2022/Mizoram/137,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+317,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/138,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+318,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/139,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+319,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/140,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+320,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/141,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+321,2022,2022-07-24,24-07-2022,,,,Kolasib,Mizoram,1,field_visit/2022/Mizoram/142,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+322,2022,2022-07-26,26-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/143,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+323,2022,2022-07-26,26-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/144,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+324,2022,2022-07-26,26-07-2022,,,,Aizawl,Mizoram,1,field_visit/2022/Mizoram/145,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+325,2022,2022-08-31,31-08-2022,27.830094,88.695972,"Poom_landslide Poom, Yumthang_Valley",North Sikkim,Sikkim,2,Newspapers&Media/2022/Sikkim/121,OK
+326,2022,2022-11-04,04-11-2022,27.296944,88.395556,Yangang Landslide Yangang,South Sikkim,Sikkim,2,Newspapers&Media/2022/Sikkim/122,OK
+327,2023,2023-08-26,2023-08-26,25.105957,92.360287,Sonapur Tunnel Landslide Near Sonapur Tunnel,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/70,OK
+328,2023,2023-08-21,2023-08-21,,,,Cachar,Assam,2,Newspapers & Media/2023/Assam/66,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+329,2023,2023-06-23,2023-06-23,28.233721,94.930641,Pangin Landslide Aalo Pangin Landslide,West Siang,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/36,OK
+330,2023,2023-06-23,2023-06-23,,,,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/37,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+331,2023,2023-07-27,2023-07-27,23.742421,92.708782,Vaivakawn Landslide Vaivakawn Zohnuai area,Aizawl,Mizoram,2,Newspapers & Media/2023/Mizoram/55,OK
+332,2023,2023-10-08,2023-08-10,25.106699,92.36123,Sonapur Tunnel Landslide Near Sonapur Tunnel,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/61,OK
+333,2023,2023-02-24,2023-02-24,28.2333,95.7776,Roing Anini Roing Anini Road,Lower Dibang Valley,Arunachal Pradesh,2,Newspapers & Media/2023/ Arunachal Pradesh/1,OK
+334,2023,2023-06-22,2023-06-22,,,,Ri Bhoi,Meghalaya,2,Newspapers & Media/2023/Meghalaya/32,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+335,2023,2023-09-08,2023-08-09,23.745833,92.713846,Hunthar Landslide Western outskirts of Aizawl,Aizawl,Mizoram,2,Newspapers & Media/2023/Mizoram/59,OK
+336,2023,2023-06-17,2023-06-17,25.275153,91.366042,Dommawlein landslide Mawiong-Pyndengrei locality of Nongstoin,West Khasi Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/22,OK
+337,2023,2023-10-07,07-10-2023,26.141897,91.75701,"Kahilipara Landslide Kahilipara, Guwahati",Kamrup Metro,Assam,2,Newspapers & Media/2023/Assam/83,OK
+338,2023,2023-05-27,2023-05-27,25.105844,92.36018,Sonapur Tunnel Landslide Near Sonapur Tunnel,East Jaintia Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/12,OK
+339,2023,2023-04-08,2023-08-04,25.106083,92.360407,Sonapur Tunnel Landslide Near Sonapur Tunnel,East Khasi Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/56,OK
+340,2023,2023-06-05,2023-05-06,25.515019,,Tura Civil Hospital Tura Civil Hospital,West Garo Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/9,MISSING_LONGITUDE
+341,2023,2023-09-07,2023-07-09,26.197297,95.020282,Wonthai Landslide Wonthai area,Noklak,Nagaland,2,Newspapers & Media/2023/Nagaland/43,OK
+342,2023,,,25.798326,,Pakala Pahar landslide near Chümoukedima police post,Chümoukedima,Nagaland,,Newspapers & Media/2023/Nagaland/39,MISSING_DATE; MISSING_LONGITUDE; MISSING_LANDSLIDE_TYPE
+343,2023,2023-06-16,2023-06-16,,,,North Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/21,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+344,2023,2023-12-07,2023-07-12,27.535576,88.500328,Lingzya Busty Landslide Lingzya Busty of Upper Dzongu,North Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/46,OK
+345,2023,2023-06-14,2023-06-14,,,,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/16,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+346,2023,2023-04-14,2023-04-14,25.371447,,"Rngain Landslide Rngain Village, Pynursla",East Khasi Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/3,MISSING_LONGITUDE
+347,2023,2023-06-23,2023-06-23,27.10699,92.525162,Sessa Landslide Balipara-Charduar-Tawang road,West Kameng,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/35,OK
+348,2023,2023-09-11,11-09-2023,23.233976,92.91265,Keitum Landslide Keitum Village,Serchhip,Mizoram,2,Newspapers & Media/2023/Mizoram/77,OK
+349,2023,2023-06-17,2023-06-17,25.205927,92.020892,Darrang Landslide Darrang Village area,West Jaintia Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/29,OK
+350,2023,2023-06-18,2023-06-18,,,,West Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/25,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+351,2023,2023-10-27,2023-10-27,27.552115,94.258982,Subansiri Landslide Near Subansiri Hydropower project dam,Lower Subansiri,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/85,OK
+352,2023,2023-07-28,2023-07-28,28.235584,94.144356,Taliha Landslide Donyi Colony in Taliha town,Upper Subansiri,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/53,OK
+353,2023,2023-10-07,2023-07-10,25.529813,93.76566,Iron bridge landslide Peren-Maram road,Peren,Nagaland,2,Newspapers & Media/2023/Nagaland/45,OK
+354,2023,2023-08-18,2023-08-18,27.717104,,Siji Landslide Likabali Aalo Road,Lower Siang,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/64,MISSING_LONGITUDE
+355,2023,2023-06-14,2023-06-14,25.371452,91.876551,"Rngain Landslide Rngain Village, Pynursla",East Khasi Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/20,OK
+356,2023,2023-09-07,2023-07-09,26.199008,95.015413,"Ehoukeh King Ehoukeh King, Choklangan",Noklak,Nagaland,2,Newspapers & Media/2023/Nagaland/44,OK
+357,2023,2023-07-16,2023-07-16,25.994082,94.85535,Kiphire Landslide Shamator Kiphire Road Section,Kiphire,Nagaland,2,Newspapers & Media/2023/Nagaland/51,OK
+358,2023,2023-07-28,2023-07-28,28.14251,95.269295,"NH 13, Pangin Landslide NH 13",Siang district,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/54,OK
+359,2023,2023-05-04,2023-04-05,25.105931,92.360242,Sonapur Tunnel Landslide Near Sonapur Tunnel,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/14,OK
+360,2023,2023-08-08,2023-08-08,22.880829,92.760969,Lunglei Landslide Near Lunglei town,Lunglei,Mizoram,2,Newspapers & Media/2023/Mizoram/58,OK
+361,2023,2023-10-07,07-10-2023,26.152334,91.798065,"Lechubagan Landslide Hengrabari Area, Guwahati",Kamrup Metro,Assam,2,Newspapers & Media/2023/Assam/82,OK
+362,2023,2023-08-27,2023-08-27,27.203191,92.38797,Rupa Landslide Shergaon - Rupa Road,West Kameng,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/73,OK
+363,2023,2023-02-24,2023-02-24,,,,Valley,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/1,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+364,2023,2023-10-06,2023-06-10,25.105937,92.360245,Sonapur Tunnel Landslide near Sonapur Tunnel,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/15,OK
+365,2023,2023-04-08,2023-08-04,27.259994,88.55059,"32 No. Landslide National Highway NH-10, connecting",East Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/67,OK
+366,2023,2023-06-05,2023-05-06,27.8964705,93.42410335,Kurung 2 Near Kurung bridge,Kurung Kumey,Arunachal Pradesh,3,Newspapers & Media/2023/Arunachal Pradesh/5,OK
+367,2023,2023-06-17,2023-06-17,26.123803,91.719487,Dhirenpara Landslide Katahbari Main Road area,Kamrup Metro,Assam,2,Newspapers & Media/2023/Assam/23,OK
+368,2023,2023-06-19,2023-06-19,25.10595,92.3603,Sonapur Tunnel Landslide near Sonapur Tunnel,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/30,OK
+369,2023,2023-06-17,2023-06-17,25.446165,91.57097,Laitlarem Landslide Laitlarem Village area,East Khasi Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/28,OK
+370,2023,2023-06-16,2023-06-16,23.745055,92.714248,Hunthar Landslide Western outskirts of Aizawl,Aizawl,Mizoram,2,Newspapers & Media/2023/Mizoram/24,OK
+371,2023,2023-05-05,2023-05-05,28.79895656,94.77570872,Mossing Landslide Yingkiong_Tuting_Road,Upper Siang,Arunachal Pradesh,3,Newspapers & Media/2023/Arunachal Pradesh/7,OK
+372,2023,2023-10-06,06-10-2023,26.187105,91.793724,Bamunimaidam Landslide Bamunimaidam area,Kamrup Metro,Assam,2,Newspapers & Media/2023/Assam/81,OK
+373,2023,2023-08-08,2023-08-08,22.518533,92.889308,Lawngtlai Landslide Near Lawngtlai town,Lawngtlai,Mizoram,2,Newspapers & Media/2023/Mizoram/57,OK
+374,2023,2023-06-18,2023-06-18,27.254354,88.136778,Dentam Landslide Dentam Sub Division under Gyalshing,West Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/26,OK
+375,2023,2023-08-10,2023-10-08,,,,West Jaintia Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/84,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+376,2023,2023-11-06,2023-06-11,25.309601,91.902608,Pynursla Landslide Riwar Mihngi circle,East Khasi Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/18,OK
+377,2023,2023-01-26,2023-01-26,23.491709,93.204533,Hermon Veng Near Khawzawl,Champhai,Mizoram,2,Newspapers & Media/2023/Mizoram/10,OK
+378,2023,2023-08-16,2023-08-16,24.826582,93.477731,Khongsang Landslide Imphal Silchar Road,Noney,Manipur,2,Newspapers & Media/2023/Manipur/63,OK
+379,2023,2023-06-15,2023-06-15,25.105945,92.360259,Sonapur Tunnel Landslide near Sonapur Tunnel,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/19,OK
+380,2023,2023-07-14,2023-07-14,,,,North Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/49,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+381,2023,2023-08-16,2023-08-16,24.820487,93.550414,Awangkhul Landslide Jiribam Imphal Road,Noney,Manipur,2,Newspapers & Media/2023/Manipur/62,OK
+382,2023,2023-09-07,2023-07-09,26.106224,,Choklangan Landslide Choklangan village in Noklak district,Noklak,Nagaland,2,Newspapers & Media/2023/Nagaland/42,MISSING_LONGITUDE
+383,2023,2023-12-06,2023-06-12,27.026924,92.610166,Tippi Landslide Balipara-Chariduar-Tawang Road (Tippi,West Kameng,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/17,OK
+384,2023,2023-06-29,2023-06-29,,,,Kamrup,Assam,2,Newspapers & Media/2023/Assam/40,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+385,2023,2023-08-25,2023-08-25,25.708869,94.906812,Mimi Landslide Indo-Myanmar Border area around,Kiphire,Nagaland,2,Newspapers & Media/2023/Nagaland/71,OK
+386,2023,2023-08-20,2023-08-20,24.820481,93.55041,Awangkhul Landslide Jiribam Imphal Road,Noney,Manipur,2,Newspapers & Media/2023/Manipur/65,OK
+387,2023,2023-06-05,2023-05-06,27.89451833,93.43502779,Kurung 1 near Kurung bridge,Kurung Kumey,Arunachal Pradesh,3,Newspapers & Media/2023/Arunachal Pradesh/4,OK
+388,2023,2023-07-14,2023-07-14,,,,East Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/48,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+389,2023,2023-07-16,2023-07-16,28.095267,95.282822,Pangin Landslide Pangin Pasighat road section,Siang district,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/50,OK
+390,2023,2023-07-17,2023-07-17,,,Meriema Landslide Meriema area,Kohima,Nagaland,2,Newspapers & Media/2023/Nagaland/52,MISSING_LATITUDE; MISSING_LONGITUDE
+391,2023,2023-08-27,2023-08-27,27.204944,92.547048,Nag Mandir Landslide Nag Mandir - Rupa Road,West Kameng,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/72,OK
+392,2023,2023-05-19,2023-05-19,27.613235,88.657305,Chungthang Landslide Chungthang_Lachung_Road,North Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/11,OK
+393,2023,2023-03-31,2023-03-31,23.837263,91.62872,Teliamura Landslide 45 mile area of Atharamura hill range,Khowai,Tripura,2,Newspapers & Media/2023/Tripura/13,OK
+394,2023,2023-08-25,2023-08-25,27.278215,88.08848,Lingzing Landslide Maneybong Dentam constituency,West Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/69,OK
+395,2023,2023-03-04,2023-04-03,27.55468158,94.25992713,Subansiri Lower Hydroelectric Project Gerukamukh,Dhemaji,Assam,1,Newspapers & Media/2023/Assam/8,OK
+396,2023,2023-03-07,2023-07-03,25.106073,92.36114,Sonapur Tunnel Landslide near Sonapur Tunnel,East Jaintia Hills,Meghalaya,3,Newspapers & Media/2023/Meghalaya/38,OK
+397,2023,2023-04-07,2023-07-04,23.74506,92.71425,Hunthar Landslide Hunthar in western part of Aizawl,Aizawl,Mizoram,2,Newspapers & Media/2023/Mizoram/41,OK
+398,2023,2023-06-18,2023-06-18,27.142583,88.103311,Lower Okhrey Landslide Sombaria area,West Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/27,OK
+399,2023,2023-06-22,2023-06-22,25.521879,90.181776,PA Sangma Stadium Landslide PA Sangma Stadium,West Garo Hills,Meghalaya,2,Newspapers & Media/2023/Meghalaya/31,OK
+400,2023,2023-06-23,2023-06-23,27.095932,93.828636,"Karsingsa Landslide NH-415, between Bandardeva and",Papum pare,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/33,OK
+401,2023,2023-08-27,2023-08-27,,,,West Kameng,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/75,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+402,2023,2023-07-14,2023-07-14,27.299226,88.390868,Rafung Khola Landslide Rafung Khola area,South Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/47,OK
+403,2023,2023-06-23,2023-06-23,27.101535,93.671454,"Puroik Landslide Puroik Colony, Papu Nalah",Papum pare,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/34,OK
+404,2023,2023-09-08,2023-08-09,,,Kiphire Town Landslide Road leading to Pungro town from Kiphire,Kiphire,Nagaland,2,Newspapers & Media/2023/Nagaland/60,MISSING_LATITUDE; MISSING_LONGITUDE
+405,2023,2023-09-26,2023-09-26,,,,Ri Bhoi,Meghalaya,2,Newspapers & Media/2023/Meghalaya/78,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION
+406,2023,2023-10-04,04-10-2023,27.912811,88.18362,Lhonak Landslide Near South Lhonak Lake,North Sikkim,Sikkim,1,Newspapers & Media/2023/Sikkim/79,OK
+407,2023,2023-03-24,2023-03-24,28.78213823,94.86047758,Tuting Landslide Bomdo_Janbo_Road,Upper Siang,Arunachal Pradesh,3,Newspapers & Media/2023/Arunachal Pradesh/6,OK
+408,2023,2023-08-27,2023-08-27,,,,West Kameng,Arunachal Pradesh,2,Newspapers & Media/2023/Arunachal Pradesh/74,MISSING_LATITUDE; MISSING_LONGITUDE; MISSING_LOCATION; DUPLICATE_RECORD_CANDIDATE
+409,2023,2023-10-06,06-10-2023,26.19676,91.76544,Kharguli Landslide Kharguli hill,Kamrup Metro,Assam,2,Newspapers & Media/2023/Assam/80,OK
+410,2023,2023-08-27,27-08-2023,26.653847,94.51346,Noklangsangba Landslide Noklangsangba Government High School,Mokokchung,Nagaland,2,Newspapers & Media/2023/Nagaland/76,OK
+411,2023,2023-03-26,2023-03-26,27.39235464,88.52320007,Sokpay Landslide Sokpay Village,Gangtok,Sikkim,3,Newspapers & Media/2023/Sikkim/2,OK
+412,2023,2023-08-24,2023-08-24,27.259936,88.550684,"32 No. Landslide National Highway NH-10, connecting",East Sikkim,Sikkim,2,Newspapers & Media/2023/Sikkim/68,OK
+413,2024,2024-04-24,24-04-2024,28.233285,95.777581,Hunli and Anini BetweeenHunli and Anini,Dibang Valley,Arunachal Pradesh,3,Newspapers & Media/2024/Aarunachal Pradesh/2,OK
+414,2024,2024-05-16,16-05-2024,27.78598,93.542196,Pach Nallah Landslide Between Leel village and Tagum camp/6 kilo under Sangram circle,KurungKu mey,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/6,OK
+415,2024,2024-06-15,15-06-2024,28.748529,94.910333,Bomdo Landslide Between Ramsing and Bomdo,Upper Siang,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/52,OK
+416,2024,2024-06-18,18-06-2024,27.121869,93.783419,Karsingsa Landslide Between Nirjuli and Banderdewa,Papum Pare,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/62,OK
+417,2024,2024-06-23,23-06-2024,27.099654,93.62708,Itanagar Landslide Itanagar City Area,Papum Pare,Arunachal Pradesh,2,Newspapers & Media/2024/Arunachal Pradesh/66,OK
+418,2024,2024-06-16,16-06-2024,27.141177,95.746747,"Rangfra Landslide Near Rangfra Mandir, Changlang",Changlang,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/67,OK
+419,2024,2024-06-26,26-06-2024,27.03649,92.605617,Tippi Landslide Road connecting Bomdila-Seppa- Tawang.,West Kameng,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/68,OK
+420,2024,2024-06-25,25-06-2024,27.923784,94.711676,Siji Landslide Likabali-Basar- Daporijo Road,Lower Siang,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/69,OK
+421,2024,2024-06-29,29-06-2024,28.226541,94.883203,Tarak Landslide Pasighat- Pangin-Aalo road,Siang District,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/71,OK
+422,2024,2024-06-29,29-06-2024,27.07383,93.6327,"Jullang Landslide Ganga Jullang Road, Itanagar",Papum Pare,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/72,OK
+423,2024,2024-06-29,29-06-2024,28.519848,94.361341,Tatu Landslide AaloMechuka Road,West Siang,Arunachal Pradesh,2,Newspapers & Media/2024/Arunachal Pradesh/73,OK
+424,2024,2024-06-29,29-06-2024,27.886843,96.374843,Demwe Landslide Demwe- Brahmakund Tri Junction to Parashuram Kund-Wakro Road,Lohit,Arunachal Pradesh,3,Newspapers & Media/2024/Arunachal Pradesh/75,OK
+425,2024,2024-06-29,29-06-2024,28.06798,96.565515,Hayuliang Landslide RamMandir- Tidding-Khupa- Hayuliang- Hawai Road,Anjaw,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/76,MISSING_LANDSLIDE_TYPE
+426,2024,2024-06-30,30-06-2024,27.30978,92.958741,Bana Landslide Bana Chepa Road,East Kameng,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/78,MISSING_LANDSLIDE_TYPE
+427,2024,2024-06-30,30-06-2024,28.676866,94.964479,Jengging Landslide Pasighat - Mariyang- Yingkiong Road,Upper Siang,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/79,MISSING_LANDSLIDE_TYPE
+428,2024,2024-06-29,29-06-2024,28.142213,95.092954,Babuk Landslide highway between Babuk and Kebang Village,Siang District,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/80,MISSING_LANDSLIDE_TYPE
+429,2024,2024-07-01,01-07-2024,27.090926,93.605705,"Division IV Landslide Division IV Landslide area, Itanagar",Papum Pare,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/84,MISSING_LANDSLIDE_TYPE
+430,2024,2024-06-30,30-06-2024,27.895164,93.430041,Rengchi Landslide Rengchi area in Kurung,KurungKu mey,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/85,MISSING_LANDSLIDE_TYPE
+431,2024,2024-07-01,01-07-2024,27.089317,93.591888,Baat Landslide Itanagar-Baat Road,Papum Pare,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/105,MISSING_LANDSLIDE_TYPE
+432,2024,2024-07-04,04-07-2024,28.233305,94.98636,Pangin Landslide Lokpeng and Pangin Tri- junction,Siang District,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/106,MISSING_LANDSLIDE_TYPE
+433,2024,2024-07-06,06-07-2024,28.142494,95.093074,Babuk Landslide highway between Babuk and Kebang Village,Siang District,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/117,MISSING_LANDSLIDE_TYPE
+434,2024,2024-07-05,05-07-2024,27.121839,93.783633,Karsingsa Landslide Between Nirjuli and Banderdewa,Papum Pare,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/118,MISSING_LANDSLIDE_TYPE
+435,2024,2024-07-05,05-07-2024,28.697524,94.316142,Shi Yomi Landslide,Shi Yomi,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/119,MISSING_LANDSLIDE_TYPE
+436,2024,2024-07-05,05-07-2024,28.047143,96.439961,Mompani Landslide Tezu-Hayuliang road,Anjaw,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/120,MISSING_LANDSLIDE_TYPE
+437,2024,2024-07-05,05-07-2024,27.72775,93.636163,Palin Landslide Palin- Taraklengdi Road,KraDaadi,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/121,MISSING_LANDSLIDE_TYPE
+438,2024,2024-07-14,14-07-2024,27.307091,92.792901,Palizi Landslide Between Rupa and Seppa,West Kameng,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/127,MISSING_LANDSLIDE_TYPE
+439,2024,2024-07-22,22-07-2024,27.031002,93.621829,Holongi Landslide BetweeenHolon gi and Itanagar,Papum Pare,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/134,MISSING_LANDSLIDE_TYPE
+440,2024,2024-09-07,07-09-2024,27.611051,91.857654,Bramadungch ung Landslide Near Bramadungchun g Ani Gonpa,Tawang,Arunachal Pradesh,,Newspapers & Media/2024/Arunachal Pradesh/176,MISSING_LANDSLIDE_TYPE
+441,2024,2024-10-04,04-10-2024,27.203922,92.562963,"Kaspi Landslide Name Kaspi Vilage, Near Nag Mandir Location",West Kameng Landslide,Arunachal Pradesh,Type of Event,Newspapers & Media/2024/Arunachal Pradesh/186,OK
+442,2024,2024-05-01,01-05-2024,25.109872,92.891914,Landslide Between Jatinga and Harangajao Station,Jatinga,Assam,3,Newspapers & Media/2024/Assam/4,OK
+443,2024,2024-05-03,03-05-2024,25.019471,92.76249,Landslide Badarpur Pahar line,Damcherra,Assam,3,Newspapers & Media/2024/Assam/5,OK
+444,2024,2024-05-26,26-05-2024,27.282038,95.738226,Landslide Situated between Bargolai and Namdang under the Tikok colliery in Ledo,Tikok,Assam,2,Newspapers & Media/2024/Assam/11,OK
+445,2024,2024-05-27,27-05-2024,27.532524,94.263033,Landslide NHPC Lower Subansiri Hydroelectricity Project in Gogamukh,Subansiri,Assam,2,Newspapers & Media/2024/Assam/12,OK
+446,2024,2024-05-29,29-05-2024,26.144954,91.747639,Nagar Landslide Lal Ganesh Area,Krishna,Assam,2,Newspapers & Media/2024/Assam/32,OK
+447,2024,2024-06-03,03-06-2024,26.125215,91.71827,"Landslide Masjid Road No. 1, Katahbari",Katahbari,Assam,3,Newspapers & Media/2024/Assam/36,OK
+448,2024,2024-06-03,03-06-2024,26.160366,91.698208,"Nagar Landslide Gramya Nagar Path, Pandu",Gramya,Assam,2,Newspapers & Media/2024/Assam/37,OK
+449,2024,2024-05-30,30-05-2024,25.179895,93.116465,Landslide Mahur Lasang Road,Mahur,Assam,3,Newspapers & Media/2024/Assam/38,OK
+450,2024,2024-05-30,30-05-2024,25.202045,93.01028,"Landslide Road side, Lungkhok",Lungkhok,Assam,3,Newspapers & Media/2024/Assam/39,OK
+451,2024,2024-05-30,30-05-2024,25.1934,93.020431,"Landslide Road side, Bethel",Bethel,Assam,3,Newspapers & Media/2024/Assam/40,OK
+452,2024,2024-05-30,30-05-2024,26.190964,91.775725,"Nagar Landslide Chandmari, Guwahati",Rudra,Assam,2,Newspapers & Media/2024/Assam/41,OK
+453,2024,2024-06-19,19-06-2024,24.787043,92.523786,Landslide Between Gainachora- Bendargool village,Bendargool,Assam,2,Newspapers & Media/2024/Assam/63,OK
+454,2024,2024-07-04,04-07-2024,26.111529,91.846223,"Landslide 8th Mile Area, Jorabat",8th Mile,Assam,2,Newspapers & Media/2024/Assam/115,OK
+455,2024,2024-07-12,12-07-2024,26.179508,91.829241,"Landslide Guwahati’s Bonda locality, Amgaon",Bonda,Assam,2,Newspapers & Media/2024/Assam/125,OK
+456,2024,2024-08-10,10-08-2024,25.006926,92.747317,Landslide Location SilcharHaflong Road section,Damchera Landslide Name,Assam,3 Type of Event,Newspapers & Media/2024/Assam/154,OK
+457,2024,2024-05-27,27-05-2024,24.67507,94.27133,Near Kasom Village,Kasom Landslide,Manipur,3,Newspapers & Media/2024/Manipur/16,OK
+458,2024,2024-05-28,28-05-2024,24.78167,93.7777,Imphal Jiribam Road,Imphal Landslide,Manipur,3,Newspapers & Media/2024/Manipur/30,OK
+459,2024,2024-05-28,28-05-2024,25.26763,93.97409,Senapati Road Thonglang,Senapati Landslide,Manipur,2,Newspapers & Media/2024/Manipur/31,OK
+460,2024,2024-07-02,02-07-2024,24.95445,94.21625,Imphal Ukhrul Road,MongkotChep u Landslide,Manipur,2,Newspapers & Media/2024/Manipur/98,OK
+461,2024,2024-07-03,03-07-2024,25.06391,94.34178,Imphal-Ukhrul Road,Kazipphung Landslide,Manipur,2,Newspapers & Media/2024/Manipur/100,OK
+462,2024,2024-07-04,04-07-2024,25.13191,93.96529,Between and Yaikongpao village Daili village,Kangpokpi Landslide,Manipur,2,Newspapers & Media/2024/Manipur/114,OK
+463,2024,2024-07-29,29-07-2024,24.98131,93.49901,"L Dimthanlong Tamenglong 3 village, Ward No.",Dimthanlong andslide,Manipur,2,Newspapers & Media/2024/Manipur/139,OK
+464,2024,2024-07-29,29-07-2024,24.7764,93.79057,Along Sinam NH-37 near K. village,Sinam Landslide,Manipur,2,Newspapers & Media/2024/Manipur/140,OK
+465,2024,2024-07-29,29-07-2024,24.76632,93.43601,Between Rengpang Nungba and villages,Rengpang Landslide,Manipur,2,Newspapers & Media/2024/Manipur/141,OK
+466,2024,2024-07-29,29-07-2024,24.75121,93.46316,Between and Rengpang Taodaijang village,Taodaijang Landslide,Manipur,2,Newspapers & Media/2024/Manipur/142,OK
+467,2024,2024-08-01,01-08-2024,24.53455,93.83401,Part I Thanga Panchayat Part I Gram,Thanga Landslide,Manipur,3,Newspapers & Media/2024/Manipur/143,OK
+468,2024,2024-08-01,01-08-2024,24.52563,93.81729,Part II Thanga Panchayat Part II Gram,Thanga Landslide,Manipur,2,Newspapers & Media/2024/Manipur/144,OK
+469,2024,2024-08-01,01-08-2024,24.5226,93.81477,Thanga NgaramChinkha Region,Thanga Ngaram Landslide,Manipur,2,Newspapers & Media/2024/Manipur/145,OK
+470,2024,2024-08-01,01-08-2024,24.73502,93.919,OinamLeikai,Oinam Landslide,Manipur,2,Newspapers & Media/2024/Manipur/146,OK
+471,2024,2024-08-01,01-08-2024,24.52711,93.82001,Thanga Region,Heisnam Landslide,Manipur,2,Newspapers & Media/2024/Manipur/147,OK
+472,2024,2024-08-06,06-08-2024,24.75096,93.13879,"Sonapur Panchayat, Gram Jiribam",JiribamSonapu r Landslide,Manipur,2,Newspapers & Media/2024/Manipur/150,OK
+473,2024,2024-08-07,07-08-2024,24.75648,93.42788,Near Nungba region,Nungba Landslide,Manipur,3,Newspapers & Media/2024/Manipur/151,OK
+474,2024,2024-08-07,07-08-2024,24.72047,93.26164,Kaimai Village area,Kaimai Landslide,Manipur,3,Newspapers & Media/2024/Manipur/152,OK
+475,2024,2024-08-12,12-08-2024,25.092,94.35854,Hamleikhong Area,Hamleikhong Landslide,Manipur,2,Newspapers & Media/2024/Manipur/157,OK
+476,2024,2024-08-18,18-08-2024,24.78893,93.73187,K. Sinam Kangpokpi along Village in District NH-37,K. Sinam Landslide,Manipur,2,Newspapers & Media/2024/Manipur/160,OK
+477,2024,2024-08-18,18-08-2024,24.81961,93.55647,Noney NH-37 District along,Awangkhul Landslide,Manipur,3,Newspapers & Media/2024/Manipur/161,OK
+478,2024,2024-10-01,01-10-2024,24.83803,93.5706,Between and Langkhong Name Location Awangkhul NH/SH Affected,AwangkhulRa ngkhung Landslide Landslide,Manipur,2 Type of Event,Newspapers & Media/2024/Manipur/182,OK
+479,2024,2024-02-03,03-02-2024,25.105844,92.36018,Tunnel Near Tunnel Sonapur NH,Sonapur Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/1,MISSING_LANDSLIDE_TYPE
+480,2024,2024-04-30,30-04-2024,25.102667,92.358006,Near Tunnel Sonapur NH,Sonapur Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/3,MISSING_LANDSLIDE_TYPE
+481,2024,2024-05-16,16-05-2024,25.569287,91.856166,Near Primary St Gabriell School,3rd Mile Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/7,MISSING_LANDSLIDE_TYPE
+482,2024,2024-05-16,16-05-2024,25.568237,91.856614,"Near College, Borma 3rd Mile",Borma Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/8,MISSING_LANDSLIDE_TYPE
+483,2024,2024-05-17,17-05-2024,25.568556,91.873806,"Near Assembly Meghalaya New builidng,",Shillong Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/10,MISSING_LANDSLIDE_TYPE
+484,2024,2024-05-27,27-05-2024,25.106205,92.360977,Tunnel Near Tunnel Sonapur NH,Sonapur Landslide,Meghalaya,3,Newspapers & Media/2024/Meghalaya/17,OK
+485,2024,2024-05-28,28-05-2024,25.363389,91.614595,East Khasi Hills,Weilong Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/18,MISSING_LANDSLIDE_TYPE
+486,2024,2024-05-28,28-05-2024,25.62836,91.893134,East Khasi Hills,Mawlai Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/19,MISSING_LANDSLIDE_TYPE
+487,2024,2024-05-28,28-05-2024,25.625808,91.902597,East Khasi Hills,Mawkynroh Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/20,MISSING_LANDSLIDE_TYPE
+488,2024,2024-05-28,28-05-2024,25.453314,91.751767,Mawphland Block,Mawphland Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/21,MISSING_LANDSLIDE_TYPE
+489,2024,2024-05-28,28-05-2024,25.567062,91.871489,Near House Rilbong Beat,Rilbong Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/22,MISSING_LANDSLIDE_TYPE
+490,2024,2024-05-28,28-05-2024,25.560962,91.881821,Lower Lumparing,Lumparing Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/23,MISSING_LANDSLIDE_TYPE
+491,2024,2024-05-28,28-05-2024,25.39192932,91.3896869,MR Road,West 13 KM Hills Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/24,MISSING_LANDSLIDE_TYPE
+492,2024,2024-05-30,30-05-2024,25.271534,91.748951,Nongpriang under village Shella Block,Nongpriang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/35,MISSING_LANDSLIDE_TYPE
+493,2024,2024-05-30,30-05-2024,25.15457,92.368435,Along Road Lumshnong NH Side,Lumshnong Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/42,MISSING_LANDSLIDE_TYPE
+494,2024,2024-06-15,15-06-2024,25.162582,92.38607,2 Lumshnong along area NH NH 6,Lumshnong Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/44,MISSING_LANDSLIDE_TYPE
+495,2024,2024-06-15,15-06-2024,25.568354,91.866635,South Hills West Khasi,West Lummawbah Hills Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/53,MISSING_LANDSLIDE_TYPE
+496,2024,2024-06-17,17-06-2024,25.52819,91.433141,Markasa under Mawthadraishan block village,Khasi Markasa Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/55,MISSING_LANDSLIDE_TYPE
+497,2024,2024-06-14,14-06-2024,25.82781,91.874287,Ri Bhoi region NH,Ri Palei Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/57,MISSING_LANDSLIDE_TYPE
+498,2024,2024-06-14,14-06-2024,25.800588,91.875187,Ri Bhoi region NH,Umsamlem Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/58,MISSING_LANDSLIDE_TYPE
+499,2024,2024-06-14,14-06-2024,25.679203,91.899853,Ri Bhoi region NH,Umiam Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/59,MISSING_LANDSLIDE_TYPE
+500,2024,2024-06-15,15-06-2024,25.368971,91.466408,Mawkyrwat block,West Mawkyrwat Hills Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/60,MISSING_LANDSLIDE_TYPE
+501,2024,2024-06-15,15-06-2024,25.225818,91.236212,Ranikor Block,West Ranikor Hills Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/61,MISSING_LANDSLIDE_TYPE
+502,2024,2024-06-19,19-06-2024,25.518951,91.828582,Pomlum Laitlyngkot village in,Pomlum Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/64,MISSING_LANDSLIDE_TYPE
+503,2024,2024-06-17,17-06-2024,25.152774,92.220332,Karkhana Village,Karkhana Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/65,MISSING_LANDSLIDE_TYPE
+504,2024,2024-06-28,28-06-2024,25.510164,91.700373,Mawmaram Road,Sohiong Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/81,MISSING_LANDSLIDE_TYPE
+505,2024,2024-06-30,30-06-2024,25.669593,91.903928,2 Near Station Umiam Fire NH,Umiam Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/82,MISSING_LANDSLIDE_TYPE
+506,2024,2024-07-01,01-07-2024,25.653138,91.898077,Dam Near Umiam Dam NH,Umiam Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/83,MISSING_LANDSLIDE_TYPE
+507,2024,2024-06-30,30-06-2024,25.682492,91.900697,"1 GS Road, Ri Bhoi NH",Umbang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/87,MISSING_LANDSLIDE_TYPE
+508,2024,2024-06-30,30-06-2024,25.676048,91.897497,"GS Road, Ri Bhoi NH",NEPA Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/88,MISSING_LANDSLIDE_TYPE
+509,2024,2024-06-30,30-06-2024,25.675099,91.898378,"3 GS Road, Ri Bhoi NH",Umiam Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/89,MISSING_LANDSLIDE_TYPE
+510,2024,2024-06-30,30-06-2024,25.686237,91.902376,"2 GS Road, Ri Bhoi NH",Umbang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/90,MISSING_LANDSLIDE_TYPE
+511,2024,2024-06-30,30-06-2024,25.686801,91.903145,"3 GS Road, Ri Bhoi NH",Umbang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/91,MISSING_LANDSLIDE_TYPE
+512,2024,2024-06-30,30-06-2024,25.692127,91.906341,"GS Road, Ri Bhoi NH",Sumer Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/92,MISSING_LANDSLIDE_TYPE
+513,2024,2024-06-30,30-06-2024,25.67939,91.899541,"4 GS Road, Ri Bhoi NH",Umbang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/93,MISSING_LANDSLIDE_TYPE
+514,2024,2024-07-02,02-07-2024,25.529008,91.271797,Nongstoin-Shillong Highway,Khasi Tiehsaw Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/96,MISSING_LANDSLIDE_TYPE
+515,2024,2024-07-02,02-07-2024,25.466183,91.514339,Lawbyrtun- Rngikseh under Mawthadraishan Block road,Khasi Pariong Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/97,MISSING_LANDSLIDE_TYPE
+516,2024,2024-07-04,04-07-2024,25.193381,90.647418,Near Baghmara SBI,Garo Baghmara Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/107,MISSING_LANDSLIDE_TYPE
+517,2024,2024-07-04,04-07-2024,25.210055,90.633676,2 Near Circuit Baghmara House,Garo Baghmara Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/108,MISSING_LANDSLIDE_TYPE
+518,2024,2024-07-02,02-07-2024,25.649229,91.898983,"4 GS Road, Ri Bhoi NH",Umiam Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/109,MISSING_LANDSLIDE_TYPE
+519,2024,2024-07-02,02-07-2024,25.650726,91.898692,"5 GS Road, Ri Bhoi NH",Umiam Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/110,MISSING_LANDSLIDE_TYPE
+520,2024,2024-07-02,02-07-2024,25.651025,91.893994,"View GS Road, Ri Bhoi NH",Umiam Point Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/111,MISSING_LANDSLIDE_TYPE
+521,2024,2024-07-02,02-07-2024,25.641388,91.889399,"2 GS Road, Khasi East NH Hills",Mawlai Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/112,MISSING_LANDSLIDE_TYPE
+522,2024,2024-07-02,02-07-2024,25.640973,91.889427,"3 GS Road, Khasi East NH Hills",Mawlai Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/113,MISSING_LANDSLIDE_TYPE
+523,2024,2024-07-12,12-07-2024,25.08048,92.362414,Kuliang National 06 section of NH Highway,Kuliang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/122,MISSING_LANDSLIDE_TYPE
+524,2024,2024-07-13,13-07-2024,25.724652,90.193856,"Dadenggre subdivision, Tura",Garo Dadenggre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/126,MISSING_LANDSLIDE_TYPE
+525,2024,2024-07-14,14-07-2024,25.809077,91.875303,"GS Road, PahamrinaiVillahge, Ri Bhoi",Pahamrinai Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/129,MISSING_LANDSLIDE_TYPE
+526,2024,2024-07-06,06-07-2024,25.781194,91.874717,"GS Road, Villahge, Umran Ri Bhoi",Umran Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/130,MISSING_LANDSLIDE_TYPE
+527,2024,2024-07-18,18-07-2024,26.029622,91.869058,"Near Service Bhoi Merrily Station, Ri",Maupur Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/131,MISSING_LANDSLIDE_TYPE
+528,2024,2024-08-06,06-08-2024,25.080525,92.362358,Kuliang National 06 section of NH Highway,Kuliang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/148,MISSING_LANDSLIDE_TYPE
+529,2024,2024-08-06,06-08-2024,25.106369,92.361029,Tunnel Near Tunnel Sonapur NH,Sonapur Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/153,MISSING_LANDSLIDE_TYPE
+530,2024,2024-08-12,12-08-2024,25.080525,92.362247,Kuliang National 06 section of NH Highway,Kuliang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/155,MISSING_LANDSLIDE_TYPE
+531,2024,2024-08-17,17-08-2024,25.080525,92.362123,Kuliang National 06 section of NH Highway,Kuliang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/159,MISSING_LANDSLIDE_TYPE
+532,2024,2024-09-06,06-09-2024,25.951567,91.865183,Shangbangla Village NH,Shangbangla Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/175,MISSING_LANDSLIDE_TYPE
+533,2024,2024-09-30,30-09-2024,25.080516,92.362183,Kuliang National 06 section of NH Highway,Kuliang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/178,MISSING_LANDSLIDE_TYPE
+534,2024,2024-10-04,04-10-2024,25.267236,90.237665,"Koinadubi West Village, Garo Hills",Garo Koinadubi Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/184,MISSING_LANDSLIDE_TYPE
+535,2024,2024-10-05,05-10-2024,25.236002,90.424197,"AttesiaSonmong, Gasuapara Region",Garo Attesia Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/185,MISSING_LANDSLIDE_TYPE
+536,2024,2024-06-15,15-06-2024,25.599743,90.257292,Near Nepali Church Rongram NH Baptist,Garo Rongram Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/187,MISSING_LANDSLIDE_TYPE
+537,2024,2024-06-15,15-06-2024,25.556716,90.420247,Tura 1 Road Williamnagar SH,Mangrure Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/188,MISSING_LANDSLIDE_TYPE
+538,2024,2024-06-15,15-06-2024,25.556503,90.420122,Tura 2 Road Williamnagar SH,Mangrure Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/189,MISSING_LANDSLIDE_TYPE
+539,2024,2024-06-15,15-06-2024,25.556389,90.420051,Tura 3 Road Williamnagar SH,Mangrure Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/190,MISSING_LANDSLIDE_TYPE
+540,2024,2024-06-15,15-06-2024,25.549989,90.412596,Tura 1 Road Williamnagar SH,Simsang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/191,MISSING_LANDSLIDE_TYPE
+541,2024,2024-06-15,15-06-2024,25.55002,90.412686,Tura 2 Road Williamnagar SH,Simsang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/192,MISSING_LANDSLIDE_TYPE
+542,2024,2024-06-15,15-06-2024,25.549016,90.408643,Tura 3 Road Williamnagar SH,Simsang Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/193,MISSING_LANDSLIDE_TYPE
+543,2024,2024-06-15,15-06-2024,25.547884,90.385679,Tura Road Williamnagar SH,Durakalakgre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/194,MISSING_LANDSLIDE_TYPE
+544,2024,2024-06-15,15-06-2024,25.561542,90.351459,Tura 1 Road Williamnagar SH,Garo Matchurigre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/195,MISSING_LANDSLIDE_TYPE
+545,2024,2024-06-15,15-06-2024,25.561887,90.351379,Tura 2 Road Williamnagar SH,Garo Matchurigre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/196,MISSING_LANDSLIDE_TYPE
+546,2024,2024-06-15,15-06-2024,25.561884,90.351379,Tura 3 Road Williamnagar SH,Garo Matchurigre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/197,MISSING_LANDSLIDE_TYPE
+547,2024,2024-06-15,15-06-2024,25.561705,90.349382,Tura 4 Road Williamnagar SH,Garo Matchurigre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/198,MISSING_LANDSLIDE_TYPE
+548,2024,2024-06-15,15-06-2024,25.557146,90.341414,Tura 5 Road Williamnagar SH,Garo Matchurigre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/199,MISSING_LANDSLIDE_TYPE
+549,2024,2024-06-15,15-06-2024,25.55621,90.341198,Tura 6 Road Williamnagar SH,Garo Matchurigre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/200,MISSING_LANDSLIDE_TYPE
+550,2024,2024-06-15,15-06-2024,25.555088,90.340616,Tura 7 Road Williamnagar SH,Garo Matchurigre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/201,MISSING_LANDSLIDE_TYPE
+551,2024,2024-06-15,15-06-2024,25.556378,90.236012,Tura RongramDedenggre Road NH,Garo Chasingre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/202,MISSING_LANDSLIDE_TYPE
+552,2024,2024-06-15,15-06-2024,25.545538,90.230769,Near Poultry Rongkon Farm,Garo Rongkon Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/203,MISSING_LANDSLIDE_TYPE
+553,2024,2024-06-15,15-06-2024,25.308286,90.204561,Paikan 1 Road Tura Dalu NH,Garo Rengsipara Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/204,MISSING_LANDSLIDE_TYPE
+554,2024,2024-06-15,15-06-2024,25.308134,90.204644,Paikan 2 Road Tura Dalu NH,Garo Rengsipara Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/205,MISSING_LANDSLIDE_TYPE
+555,2024,2024-06-15,15-06-2024,25.496547,90.220672,Paikan 1 Road Tura Dalu NH,Garo Bolpuchring Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/206,MISSING_LANDSLIDE_TYPE
+556,2024,2024-06-15,15-06-2024,25.496702,90.221742,Paikan 2 Road Tura Dalu NH,Garo Bolpuchring Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/207,MISSING_LANDSLIDE_TYPE
+557,2024,2024-06-15,15-06-2024,25.496123,90.222287,Paikan 3 Road Tura Dalu NH,Garo Bolpuchring Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/208,MISSING_LANDSLIDE_TYPE
+558,2024,2024-06-15,15-06-2024,25.47651,90.223143,Paikan Road Tura Dalu NH,Garo Derengre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/209,MISSING_LANDSLIDE_TYPE
+559,2024,2024-06-15,15-06-2024,25.470969,90.220833,Paikan 1 Road Tura Dalu NH,Garo Dinasagre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/210,MISSING_LANDSLIDE_TYPE
+560,2024,2024-06-15,15-06-2024,25.469956,90.220708,Paikan 2 Road Tura Dalu NH,Garo Dinasagre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/211,MISSING_LANDSLIDE_TYPE
+561,2024,2024-06-15,15-06-2024,25.399736,90.223057,Paikan 1 Road Tura Dalu NH,Garo Rongbretgre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/212,MISSING_LANDSLIDE_TYPE
+562,2024,2024-06-15,15-06-2024,25.396902,90.226635,Paikan 2 Road Tura Dalu NH,Garo Rongbretgre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/213,MISSING_LANDSLIDE_TYPE
+563,2024,2024-06-15,15-06-2024,25.395992,90.22618,Paikan 3 Road Tura Dalu NH,Garo Rongbretgre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/214,MISSING_LANDSLIDE_TYPE
+564,2024,2024-06-15,15-06-2024,25.39366,90.225665,Paikan 4 Road Tura Dalu NH,Garo Rongbretgre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/215,MISSING_LANDSLIDE_TYPE
+565,2024,2024-06-15,15-06-2024,25.355696,90.222252,Paikan 1 Road Tura Dalu NH,Garo Santogre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/216,MISSING_LANDSLIDE_TYPE
+566,2024,2024-06-15,15-06-2024,25.355738,90.222034,Paikan 2 Road Tura Dalu NH,Garo Santogre Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/217,MISSING_LANDSLIDE_TYPE
+567,2024,2024-06-15,15-06-2024,25.338717,90.203781,Paikan 1 Road Tura Dalu NH,Garo Kherapara Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/218,MISSING_LANDSLIDE_TYPE
+568,2024,2024-06-15,15-06-2024,25.324709,90.205449,Paikan 2 Road Tura Dalu NH,Garo Kherapara Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/219,MISSING_LANDSLIDE_TYPE
+569,2024,2024-06-15,15-06-2024,25.324395,90.205134,Paikan 3 Road Tura Dalu NH,Garo Kherapara Landslide,Meghalaya,,Newspapers & Media/2024/Meghalaya/220,MISSING_LANDSLIDE_TYPE
+570,2024,2024-06-15,15-06-2024,25.324305,90.205068,Paikan 4 Road Tura Dalu NH,Garo Kherapara Landslide,Meghalaya,1,Newspapers & Media/2024/Meghalaya/221,OK
+571,2024,2024-06-15,15-06-2024,25.314873,90.200065,Paikan 1 Road Tura Dalu NH,Garo Dopogre Landslide,Meghalaya,1,Newspapers & Media/2024/Meghalaya/222,OK
+572,2024,2024-06-15,15-06-2024,25.314952,90.200072,Paikan 2 Road Location Tura Dalu NH,Garo Dopogre Landslide District Landslide Name,Meghalaya,1 Type of Event,Newspapers & Media/2024/Meghalaya/223,OK
+573,2024,2024-05-28,28-05-2024,23.68059,92.71768,"Situated Meltham in Aizawl between and Hlimen the southern part of city, Mizoram",Aizawl Hlimen Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/13,OK
+574,2024,2024-05-28,28-05-2024,23.74506,92.71425,Western Aizawl outskirts of,Aizawl Hunthar Landslide,Mizoram,3,Newspapers & Media/2024/Mizoram/14,OK
+575,2024,2024-05-28,28-05-2024,23.71769,92.7266,Near Aizawl City,Aizawl Salem Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/15,OK
+576,2024,2024-05-28,28-05-2024,23.62224,92.72635,Falkawn Village,Aizawl Falkawn Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/27,OK
+577,2024,2024-05-28,28-05-2024,23.45122,92.68159,Lungsei Village,Aizawl Lungsei Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/28,OK
+578,2024,2024-05-28,28-05-2024,23.55912,92.70656,Aibawk Village,Aizawl Aibawk Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/29,OK
+579,2024,2024-06-11,11-06-2024,23.75095,92.27094,Khantlang Mamitdistrcit Village in,Mamit Khantlang Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/49,OK
+580,2024,2024-07-02,02-07-2024,23.75524,92.73935,Aizawl's locality Zuangtui,Aizawl Zuangtui Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/86,OK
+581,2024,2024-07-02,02-07-2024,23.75565,92.72946,Aizawl's locality Bawngkawn,Aizawl Bawngkawn Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/94,OK
+582,2024,2024-07-02,02-07-2024,23.73397,92.7463,Aizawl's locality Zemabawk,Aizawl Zemabawk Landslide,Mizoram,2,Newspapers & Media/2024/Mizoram/95,OK
+583,2024,2024-07-02,02-07-2024,23.76229,92.73362,Durtlang Road,Aizawl Durtlang Landslide,Mizoram,3,Newspapers & Media/2024/Mizoram/101,OK
+584,2024,2024-08-28,28-08-2024,23.99435,92.64393,Near Railway Location Kawnpui Station NH/SH Affected,Kolasib Kawnpui Landslide Landslide Name,Mizoram,2 Casualty,Newspapers & Media/2024/Mizoram/170,OK
+585,2024,2024-05-28,28-05-2024,25.582963,94.298515,Rekizu Ward,Rekizu Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/25,OK
+586,2024,2024-05-28,28-05-2024,25.579584,94.220527,Kikruma Village,Kikruma Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/26,OK
+587,2024,2024-06-16,16-06-2024,25.881651,94.780119,"Ward Medical Kiphire ward,",Medical Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/56,OK
+588,2024,2024-06-28,28-06-2024,26.328052,94.524576,Tongdentsuyon g ward butcher NH 2 near shop,Tongdentsuyo ng Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/70,OK
+589,2024,2024-06-29,29-06-2024,26.012021,94.52143,DC Area Hill West,DC Hill Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/77,OK
+590,2024,2024-07-02,02-07-2024,26.223056,94.800348,TuensangMoko kchung NH 202 Road,Tuensang Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/99,OK
+591,2024,2024-07-02,02-07-2024,25.816009,94.616317,Shishimi Village Area,Shishimi Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/102,OK
+592,2024,2024-07-01,01-07-2024,26.006772,94.521634,South colony point east,"DIET, Zunheboto Landslide",Nagaland,2,Newspapers & Media/2024/Nagaland/103,OK
+593,2024,2024-07-03,03-07-2024,26.185832,94.841673,Kuthur Village,K.Wongthu Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/104,OK
+594,2024,2024-07-05,05-07-2024,26.090935,94.746775,Keku Chessore colony of area,Chessore Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/116,OK
+595,2024,2024-07-12,12-07-2024,25.607096,94.12725,Khel Kigwema- Mima- Chakhabama Road,Seca Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/124,OK
+596,2024,2024-07-07,07-07-2024,26.015899,94.531077,Alahuto of Zunheboto Town Colony,Alahuto Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/128,OK
+597,2024,2024-07-15,15-07-2024,26.107402,94.255575,Near village Wokha NH 2 'B' Khel,Wokha Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/132,OK
+598,2024,2024-07-22,22-07-2024,26.09928,94.25861,Tchuyiro colony Wokha area in Town,Tchuyiro colony Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/135,OK
+599,2024,2024-07-22,22-07-2024,26.2956,94.246652,Near ground Lakhuti football at Village,Lakhuti Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/136,OK
+600,2024,2024-07-26,26-07-2024,25.680683,94.103026,"Pezielietsie Colony Ward-3 Block, in North Kohima",Pezielietsie Colony Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/138,OK
+601,2024,2024-08-04,04-08-2024,25.671317,94.18373,Just Dzüü before bridge,Dzüü Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/149,OK
+602,2024,2024-08-12,12-08-2024,25.699199,94.930126,Near Lophukhong Village,Lophukhong Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/156,OK
+603,2024,2024-08-14,14-08-2024,25.724445,94.034266,Kohima Dimapur Highway NH 29,Zubza Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/158,OK
+604,2024,2024-08-23,23-08-2024,25.670326,94.04216,Between Jotsoma Khonoma and,Khonoma Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/168,OK
+605,2024,2024-08-26,26-08-2024,26.098734,94.254992,"Etsuchuka Colony, Wokha",Etsuchuka Colony Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/169,OK
+606,2024,2024-08-29,29-08-2024,26.249363,94.537726,Between Longsa and Bridge NH 202 Junction Dikhu,Longsa Landslide,Nagaland,2,Newspapers & Media/2024/Nagaland/171,OK
+607,2024,2024-08-26,26-08-2024,26.302047,94.586325,Between MokokchungTu engsang Road,Mokokchung Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/173,OK
+608,2024,2024-09-03,03-09-2024,25.773953,93.913722,Between Pherima Paglapahar NH 29 and,Pherima Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/174,OK
+609,2024,2024-09-09,09-09-2024,25.710966,94.068528,Near Kohima Municipal Council dumping old NH 29 (KMC) site,KMC Dumping Landslide,Nagaland,3,Newspapers & Media/2024/Nagaland/177,OK
+610,2024,2024-10-04,04-10-2024,25.710898,94.068536,Near Kohima Municipal Council dumping Location old NH 29 (KMC) site NH/SH Affected,KMC Dumping Landslide Landslide Name,Nagaland,3 Type of Event,Newspapers & Media/2024/Nagaland/183,OK
+611,2024,2024-05-17,17-05-2024,27.24534,88.61161,Near under construction office DC,Pakyong DC office Landslide,Sikkim,2,Newspapers & Media/2024/Sikkim/9,OK
+612,2024,2024-06-01,01-06-2024,27.62714,88.67311,Maltin and areas BOP,Matim Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/33,OK
+613,2024,2024-06-01,01-06-2024,27.37194,88.61639,Gangtok Road Mangan,Tashi Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/34,OK
+614,2024,2024-06-10,10-06-2024,27.29403,88.41938,Yangang area,Majua Landslide,Sikkim,2,Newspapers & Media/2024/Sikkim/43,OK
+615,2024,2024-06-13,13-06-2024,27.50028,88.53445,Mangan Area,Mangan Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/45,OK
+616,2024,2024-06-11,11-06-2024,27.23553,88.50579,Shantinagar Singtam Area in NH 10,Shantinagar Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/46,OK
+617,2024,2024-06-11,11-06-2024,27.32167,88.60993,Pani House Gangtok area in,Pani House Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/47,OK
+618,2024,2024-06-11,11-06-2024,27.86372,88.54756,Zeema region North Sikkim in,Zeema Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/48,OK
+619,2024,2024-06-13,13-06-2024,27.50669,88.55658,Pakshep Mangan area in,Pakshep Landslide,Sikkim,2,Newspapers & Media/2024/Sikkim/50,OK
+620,2024,2024-06-13,13-06-2024,27.5086,88.52691,Near Sangkalang Bridge,Sangkalang Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/51,OK
+621,2024,2024-06-28,28-06-2024,27.32468,88.60395,LingdingSichey Road,Lingding Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/74,OK
+622,2024,2024-07-12,12-07-2024,27.35164,88.32418,"Near Sisney, to 10th Mile Makha close in",Makha Landslide,Sikkim,2,Newspapers & Media/2024/Sikkim/123,OK
+623,2024,2024-07-21,21-07-2024,27.82149,88.5491,Enroute Lachen,Munsi Thang Landslide,Sikkim,2,Newspapers & Media/2024/Sikkim/133,OK
+624,2024,2024-07-22,22-07-2024,27.56807,88.65081,Between Rel Ward Naga and areas,Toong Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/137,OK
+625,2024,2024-08-20,20-08-2024,27.25169,88.45966,"NHPC's Teesta Stage in Balutar, 510 MW 5 dam Sikkim",Balutar Landslide,Sikkim,2,Newspapers & Media/2024/Sikkim/162,OK
+626,2024,2024-08-29,29-08-2024,27.23968,88.59367,Near Pakyong Airport,Pakyong Landslide,Sikkim,2,Newspapers & Media/2024/Sikkim/172,OK
+627,2024,2024-09-30,30-09-2024,27.47775,88.52716,Near Rang Landslide Rang,Rang Rang Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/179,OK
+628,2024,2024-09-30,30-09-2024,27.37807,88.49725,"Marchak, Tintek Lower",Lower Tintek Landslide,Sikkim,3,Newspapers & Media/2024/Sikkim/180,OK
+629,2024,2024-09-30,30-09-2024,27.17605,88.09037,Between Bhareng Location Ribdi and NH/SH Latitude Affected,RibdiBhareng Landslide Landslide Name,Sikkim,2 of Casualty,Newspapers & Media/2024/Sikkim/181,OK
+630,2024,2024-06-15,15-06-2024,23.878866,91.705846,Mile 35 in Mungiakami region 23.878866,Mungiakami Landslide,Tripura,3,Newspapers & Media/2024/Tripura/54,OK
+631,2024,2024-08-19,19-08-2024,23.167876,91.516866,Debipur region 23.167876,Debipur Landslide,Tripura,2,Newspapers & Media/2024/Tripura/163,OK
+632,2024,2024-08-19,19-08-2024,23.839927,91.634953,Teliamura region 23.839927,Teliamura Landslide,Tripura,2,Newspapers & Media/2024/Tripura/164,OK
+633,2024,2024-08-19,19-08-2024,24.109649,91.908101,Near Saikar Bazar 24.109649,Saikar Landslide,Tripura,3,Newspapers & Media/2024/Tripura/165,OK
+634,2024,2024-08-22,22-08-2024,23.312969,91.524158,Gardang Panchayat near Shanti bazar 23.312969,Gardang Landslide,Tripura,2,Newspapers & Media/2024/Tripura/166,OK
+635,2024,2024-08-22,22-08-2024,23.423169,91.755621,Near Nutan bazar water treatment plant SDMA 23.423169 Report.,Nutan Bazar Landslide found in Tripura,Tripura,2,Newspapers & Media/2024/Tripura/167,OK
+636,2025,2025-05-30,2025-05-30,25.67923,91.89988,Umiam Landslide 7,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+637,2025,2025-05-30,2025-05-30,25.68672,91.9034,Umbang Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+638,2025,2025-05-30,2025-05-30,25.68624,91.90282,Umbang Landslide 2,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+639,2025,2025-05-30,2025-05-30,25.69024,91.90534,Sumer Landslide 1,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+640,2025,2025-05-30,2025-05-30,25.75852,91.87999,Umsamlem Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+641,2025,2025-05-30,2025-05-30,25.82308,91.87242,Kwinain Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+642,2025,2025-05-30,2025-05-30,25.81488,91.87571,Umnget Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+643,2025,2025-05-30,2025-05-30,25.92683,91.87521,Umling Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+644,2025,2025-05-30,2025-05-30,25.92723,91.87506,Umling Landslide 2,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+645,2025,2025-05-30,2025-05-30,25.95857,91.86467,Umling Landslide 3,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+646,2025,2025-05-30,2025-05-30,25.9571,91.86125,Umling Landslide 4,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+647,2025,2025-05-30,2025-05-30,26.01556,91.86894,Byrnihat Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+648,2025,2025-05-30,2025-05-30,26.0169,91.86662,Byrnihat Landslide 2,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+649,2025,2025-05-30,2025-05-30,26.02992,91.86895,17 Mile Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+650,2025,2025-05-30,2025-05-30,26.03532,91.86799,Byrnihat Landslide 3,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+651,2025,2025-05-30,2025-05-30,26.03628,91.86832,Byrnihat Landslide 4,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+652,2025,2025-05-30,2025-05-30,26.08904,91.87737,Ampher Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+653,2025,2025-05-30,2025-05-30,26.09923,91.87597,Jorabat Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+654,2025,2025-05-30,2025-05-30,25.70906,91.89498,Umsning Landslide,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+655,2025,2025-05-30,2025-05-30,25.70907,91.895,Umsning Landslide 2,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+656,2025,2025-05-30,2025-05-30,25.6792,91.89967,Umiam Landslide 8,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+657,2025,2025-05-30,2025-05-30,25.67051,91.90494,Umiam Landslide 9,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+658,2025,2025-05-30,2025-05-30,25.66272,91.90127,Umiam Landslide 10,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+659,2025,2025-05-30,2025-05-30,25.66073,91.9014,Umiam Landslide 11,Ri Bhoi,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+660,2025,2025-05-30,2025-05-30,25.65293,91.89804,Umiam Landslide 12,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+661,2025,2025-05-30,2025-05-30,25.62575,91.89703,ISBT Bypass Landslide 1,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+662,2025,2025-05-30,2025-05-30,25.6248,91.91046,ISBT Bypass Landslide 2,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+663,2025,2025-05-30,2025-05-30,25.62053,91.90989,ISBT Bypass Landslide 3,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+664,2025,2025-05-30,2025-05-30,25.49086,91.82135,Mylliem Landslide 2,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+665,2025,2025-05-30,2025-05-30,25.48787,91.81959,Mylliem Landslide 3,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+666,2025,2025-05-30,2025-05-30,25.48715,91.81948,Mylliem Landslide 4,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+667,2025,2025-05-30,2025-05-30,25.4868,91.81987,Mylliem Landslide 5,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+668,2025,2025-05-30,2025-05-30,25.47565,91.81801,Mylliem Landslide 6,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+669,2025,2025-05-31,2025-05-31,25.47174,91.81621,Mylliem Landslide 7,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+670,2025,2025-05-30,2025-05-30,25.47133,91.81608,Mylliem Landslide 8,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+671,2025,2025-05-30,2025-05-30,25.46944,91.81748,Mylliem Landslide 9,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+672,2025,2025-05-30,2025-05-30,25.46891,91.8184,Mylliem Landslide 10,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+673,2025,2025-05-31,2025-05-31,25.46687,91.81902,Mylliem Landslide 11,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+674,2025,2025-05-31,2025-05-31,25.46591,91.82085,Mylliem Landslide 12,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+675,2025,2025-05-30,2025-05-30,25.46593,91.82263,Mylliem Landslide 13,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+676,2025,2025-05-31,2025-05-31,25.46529,91.82496,Umtyngar Landslide,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+677,2025,2025-05-30,2025-05-30,25.46555,91.82614,Umtyngar Landslide 2,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+678,2025,2025-05-31,2025-05-31,25.46443,91.82775,Umtyngar Landslide 3,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+679,2025,2025-05-31,2025-05-31,25.46194,91.82976,Laitkroh Landslide,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+680,2025,2025-05-31,2025-05-31,25.46117,91.83177,Laitkroh Landslide 2,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+681,2025,2025-05-30,2025-05-30,25.44031,91.84712,Laitkroh Landslide 3,East Khasi Hills,Meghalaya,Verified,Landslide-Field-Survey-2025,OK
+682,2025,2025-02-26,2025-02-26,28.78833,95.90902,"Near Anini, NH 313",Dibang Valley,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+683,2025,2025-03-04,2025-03-04,28.62887,95.8566,KM5 from Etalin along NH-313,Dibang Valley,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+684,2025,2025-03-12,2025-03-12,28.78846,95.90884,"Near Anini, NH 313",Dibang Valley,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+685,2025,2025-04-02,2025-04-02,28.03826,96.43806,Located close to the Indo-China border,Anjaw,Arunachal Pradesh,Type 3,NESAC-SR-392-2026,OK
+686,2025,2025-05-30,2025-05-30,27.07651,93.65695,Near Gyan Mission Orphan School,Papum Pare,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+687,2025,2025-05-30,2025-05-30,27.18332,92.59952,"Jamiri Landslide, NH 13",West Kameng,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+688,2025,2025-05-30,2025-05-30,27.30616,92.95388,"Bana Seppa Road, NH 13",East Kameng,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+689,2025,2025-05-31,2025-05-31,27.62206,93.84096,"Ziro Kamle Road, NH 13",Lower Subansiri,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+690,2025,2025-06-01,2025-06-01,27.64959,93.87385,Param Putu Circle,Keyi Panyor,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+691,2025,2025-06-03,2025-06-03,27.71888,94.70399,Along Likabali-Basar Road,Lower Siang,Arunachal Pradesh,Type 3,NESAC-SR-392-2026,OK
+692,2025,2025-06-15,2025-06-15,27.79837,94.0765,Govt Higher Secondary School in Raga,Kamle,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+693,2025,2025-06-25,2025-06-25,27.51413,92.80988,between Lada and Sachung,East Kameng,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+694,2025,2025-06-29,2025-06-29,27.06653,92.59247,road connecting Tippi and Elephant Flat,West Kameng,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+695,2025,2025-04-01,2025-04-01,28.77113,94.85587,Between Janbo and Bomdo Village,Upper Siang,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+696,2025,2025-04-02,2025-04-02,28.80555,94.80139,Mosing Hotel under Megging Circle,Upper Siang,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+697,2025,2025-04-14,2025-04-14,27.22884,95.90869,Jotin Joda under Manmao circle,Changlang,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+698,2025,2025-04-23,2025-04-23,27.98791,96.40653,Between Tidding to Hayuliang,Anjaw,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+699,2025,2025-04-23,2025-04-23,27.83265,93.50444,Between Chello village & Tagum Village,Kurung Kumey,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+700,2025,2025-04-25,2025-04-25,28.27767,97.01467,Between Tezu to Kibithoo,Anjaw,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+701,2025,2025-04-28,2025-04-28,27.91638,93.50261,Parsi Landslide,Kurung Kumey,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+702,2025,2025-04-29,2025-04-29,27.86772,93.39982,Rite Landslide,Kurung Kumey,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+703,2025,2025-04-29,2025-04-29,28.62271,95.04372,Between Yingkiong and Pasighat,Upper Siang,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+704,2025,2025-08-04,2025-08-04,28.5567,94.20784,Tato-Menchuka road,Shi-Yomi,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+705,2025,2025-08-05,2025-08-05,26.88749,95.57986,between Noglo and Lazu,Tirap,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+706,2025,2025-08-25,2025-08-25,27.40138,92.14558,"Balipara-Charduar-Tawang Road, NH 13",West Kameng,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+707,2025,2025-09-03,2025-09-03,27.58008,91.97688,"Balipara-Charduar-Tawang Road, NH 13",Tawang,Arunachal Pradesh,Type 2,NESAC-SR-392-2026,OK
+708,2025,2025-09-19,2025-09-19,27.72856,93.63679,Palin–Koloriang road,Kra Daadi,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+709,2025,2025-10-01,2025-10-01,26.99465,95.48669,Near Khonsa Town,Tirap,Arunachal Pradesh,Type 1,NESAC-SR-392-2026,OK
+710,2025,2025-03-31,2025-03-31,24.53369,92.8324,Rajgobinadapur in Dholai block,Cachar,Assam,Type 1,NESAC-SR-392-2026,OK
+711,2025,2025-05-20,2025-05-20,26.16025,91.69686,Maligaon's Hilltop Colony,Kamrup Metro,Assam,Type 3,NESAC-SR-392-2026,OK
+712,2025,2025-05-30,2025-05-30,26.19125,91.82953,"Bonda Landslide, outskirts of Guwahati",Kamrup Metro,Assam,Type 1,NESAC-SR-392-2026,OK
+713,2025,2025-05-31,2025-05-31,26.16134,91.70529,Maligaon Landslide,Kamrup Metro,Assam,Type 1,NESAC-SR-392-2026,OK
+714,2025,2025-05-31,2025-05-31,26.13267,91.71967,Datalpara Landslide,Kamrup Metro,Assam,Type 2,NESAC-SR-392-2026,OK
+715,2025,2025-05-30,2025-05-30,26.20384,91.85836,"Panikhaiti Landslide, near rail crossing",Kamrup Metro,Assam,Type 1,NESAC-SR-392-2026,OK
+716,2025,2025-06-02,2025-06-02,24.92072,93.07299,"Doloicherra GP, Lakhipur",Cachar,Assam,Type 1,NESAC-SR-392-2026,OK
+717,2025,2025-06-02,2025-06-02,24.68874,92.64441,Bowarthar Region,Hailakandi,Assam,Type 1,NESAC-SR-392-2026,OK
+718,2025,2025-06-02,2025-06-02,24.78095,92.30929,"Brahmanshasan Pt II, Nilambazar",Karimganj,Assam,Type 1,NESAC-SR-392-2026,OK
+719,2025,2025-06-02,2025-06-02,25.38675,93.11993,Haflong Revenue Circle,Dima Hasao,Assam,Type 1,NESAC-SR-392-2026,OK
+720,2025,2025-06-04,2025-06-04,26.1469,91.68986,Pachali Colony area of Maligaon,Kamrup Metro,Assam,Type 2,NESAC-SR-392-2026,OK
+721,2025,2025-05-30,2025-05-30,26.20396,91.85851,Near Panikhaiti Police Outpost,Kamrup Metro,Assam,Type 1,NESAC-SR-392-2026,OK
+722,2025,2025-05-31,2025-05-31,26.19515,91.76667,"Bhupen Hazarika Path, Navagraha Hills",Kamrup Metro,Assam,Type 1,NESAC-SR-392-2026,OK
+723,2025,2025-05-31,2025-05-31,26.16073,91.70498,Near Swagat Hospital,Kamrup Metro,Assam,Type 1,NESAC-SR-392-2026,OK
+724,2025,2025-06-07,2025-06-07,26.15678,91.76096,"RupNagar Region, Guwahati",Kamrup Metro,Assam,Type 3,NESAC-SR-392-2026,OK
+725,2025,2025-05-20,2025-05-20,24.72,92.5,Nilambazar RC,Sribhumi,Assam,Type 1,NESAC-SR-392-2026,OK
+726,2025,2025-05-21,2025-05-21,25.17687,93.00324,Haflong Landslide,Dima Hasao,Assam,Type 1,NESAC-SR-392-2026,OK

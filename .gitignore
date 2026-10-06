@@ -1,0 +1,18 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Heavy Binary Datasets (NetCDF & Parquet files >10MB)
+*.nc
+*.parquet
+*.zip
+
+# Virtual Environments
+venv/
+.venv/
+env/
