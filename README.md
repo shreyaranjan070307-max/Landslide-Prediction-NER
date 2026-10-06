@@ -79,3 +79,6 @@ python src/ml/train_landslide_model.py
 ```bash
 python src/ml/realtime_monitor.py
 ```
+
+
+Project Report-https://docs.google.com/document/d/1gFw4-REFhdwDEU51EJg4QF1s0io5saONHfT36B8Y4zo/edit?usp=sharing
